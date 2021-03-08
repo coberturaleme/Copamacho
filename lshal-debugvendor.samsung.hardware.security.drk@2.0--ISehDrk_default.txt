@@ -1,0 +1,3100 @@
+======= DEVROOT VENDOR #LOG START (5.0.11)=======
+02-27 10:43:16[I] communicate end -16777217 / length : 0
+02-27 10:48:38[I] communicate start cmd:0x3312, length:64
+02-27 10:48:38[D] this request is from system_server
+02-27 10:48:38[I] cmd [3312] start...
+02-27 10:48:38[E] SecnvmPowerOff isn't supported.
+02-27 10:48:38[I] cmd [3312] end...[-16777217]
+02-27 13:52:22[I] communicate start cmd:0x3301, length:64
+02-27 13:52:22[D] this request is from system_server
+02-27 13:52:22[I] cmd [3301] start...
+02-27 13:52:22[E] GetBigdataMsg isn't supported.
+02-27 13:52:22[I] cmd [3301] end...[-16777217]
+02-27 13:52:22[I] communicate end -16777217 / length : 0
+02-27 13:52:22[I] communicate start cmd:0x3101, length:103
+02-27 13:52:22[D] this request is from system_server
+02-27 13:52:22[I] cmd [3101] start...
+02-27 13:52:22[I] cmd [3101] end...[0]
+02-27 13:52:22[I] communicate end 0 / length : 582
+02-27 13:52:22[I] communicate start cmd:0x3101, length:108
+02-27 13:52:22[D] this request is from system_server
+02-27 13:52:22[I] cmd [3101] start...
+02-27 13:52:22[I] cmd [3101] end...[0]
+02-27 13:52:22[I] communicate end 0 / length : 307424
+02-27 13:52:22[I] communicate start cmd:0x3101, length:105
+02-27 13:52:22[D] this request is from system_server
+02-27 13:52:22[I] cmd [3101] start...
+02-27 13:52:22[E] Failed to stat (No such file or directory)
+02-27 13:52:22[E] read file error
+02-27 13:52:22[I] cmd [3101] end...[-15402]
+02-27 13:52:22[I] communicate end -15402 / length : 0
+02-27 13:52:22[I] communicate start cmd:0x3101, length:110
+02-27 13:52:22[D] this request is from system_server
+02-27 13:52:22[I] cmd [3101] start...
+02-27 13:52:22[E] Failed to stat (No such file or directory)
+02-27 13:52:22[E] read file error
+02-27 13:52:22[I] cmd [3101] end...[-15402]
+02-27 13:52:22[I] communicate end -15402 / length : 0
+02-27 10:53:33[I] communicate start cmd:0x2041, length:64
+02-27 10:53:33[D] this request is from system_server
+02-27 10:53:33[I] cmd [2041] start...
+02-27 10:53:33[I] DRK file exists. 2555
+02-27 10:53:33[I] cmd [2041] end...[0]
+02-27 10:53:33[I] communicate end 0 / length : 0
+02-27 10:53:33[I] communicate start cmd:0x2052, length:64
+02-27 10:53:33[D] this request is from system_server
+02-27 10:53:33[I] cmd [2052] start...
+02-27 10:53:33[I] DRK file exists. 2555
+02-27 10:53:33[I] cmd [2052] end...[0]
+02-27 10:53:33[I] communicate end 0 / length : 115
+02-27 10:53:33[I] communicate start cmd:0x2031, length:148
+02-27 10:53:33[D] this request is from system_server
+02-27 10:53:33[I] cmd [2031] start...
+02-27 10:53:33[I] DRK file exists. 2555
+02-27 10:53:33[E] Carrier length is not matched.
+02-27 10:53:33[I] IMEI supported model !!!
+02-27 10:53:33[I] receiveNotifyCB end
+02-27 10:53:33[E] Carrier length is not matched.
+02-27 10:53:33[I] IMEI supported model !!!
+02-27 10:53:33[I] receiveNotifyCB end
+02-27 10:53:33[I] DRK file exists. 2555
+02-27 10:53:36[I] cmd [2031] end...[0]
+02-27 10:53:36[I] communicate end 0 / length : 3941
+02-27 10:53:36[I] communicate start cmd:0x2032, length:64
+02-27 10:53:36[D] this request is from system_server
+02-27 10:53:36[I] cmd [2032] start...
+02-27 10:53:36[I] cmd [2032] end...[0]
+02-27 10:53:36[I] communicate end 0 / length : 0
+02-27 10:57:51[I] communicate start cmd:0x2031, length:148
+02-27 10:57:51[D] this request is from system_server
+02-27 10:57:51[I] cmd [2031] start...
+02-27 10:57:51[I] DRK file exists. 2555
+02-27 10:57:51[E] Carrier length is not matched.
+02-27 10:57:51[I] IMEI supported model !!!
+02-27 10:57:51[I] receiveNotifyCB end
+02-27 10:57:51[E] Carrier length is not matched.
+02-27 10:57:51[I] IMEI supported model !!!
+02-27 10:57:51[I] receiveNotifyCB end
+02-27 10:57:51[I] DRK file exists. 2555
+02-27 10:57:54[I] cmd [2031] end...[0]
+02-27 10:57:54[I] communicate end 0 / length : 3941
+02-27 10:57:54[I] communicate start cmd:0x2032, length:64
+02-27 10:57:54[D] this request is from system_server
+02-27 10:57:54[I] cmd [2032] start...
+02-27 10:57:54[I] cmd [2032] end...[0]
+02-27 10:57:54[I] communicate end 0 / length : 0
+02-27 10:59:11[I] communicate start cmd:0x3105, length:140
+02-27 10:59:11[D] this request is from /system/bin/keystore
+02-27 10:59:11[I] cmd [3105] start...
+02-27 10:59:11[I] cmd [3105] end...[0]
+02-27 10:59:11[I] communicate end 0 / length : 0
+02-27 10:59:57[I] communicate start cmd:0x3105, length:179
+02-27 10:59:57[D] this request is from /system/bin/keystore
+02-27 10:59:57[I] cmd [3105] start...
+02-27 10:59:57[I] cmd [3105] end...[0]
+02-27 10:59:57[I] communicate end 0 / length : 0
+02-27 11:00:45[I] communicate start cmd:0x3105, length:151
+02-27 11:00:45[D] this request is from /system/bin/keystore
+02-27 11:00:45[I] cmd [3105] start...
+02-27 11:00:45[I] cmd [3105] end...[0]
+02-27 11:00:45[I] communicate end 0 / length : 0
+02-27 11:04:58[I] communicate start cmd:0x3105, length:159
+02-27 11:04:58[D] this request is from /system/bin/keystore
+02-27 11:04:58[I] cmd [3105] start...
+02-27 11:04:58[I] cmd [3105] end...[0]
+02-27 11:04:58[I] communicate end 0 / length : 0
+02-27 11:26:34[I] communicate start cmd:0x3312, length:64
+02-27 11:26:34[D] this request is from system_server
+02-27 11:26:34[I] cmd [3312] start...
+02-27 11:26:34[E] SecnvmPowerOff isn't supported.
+02-27 11:26:34[I] cmd [3312] end...[-16777217]
+02-27 11:26:34[I] communicate end -16777217 / length : 0
+02-27 11:44:26[I] communicate start cmd:0x3312, length:64
+02-27 11:44:26[D] this request is from system_server
+02-27 11:44:26[I] cmd [3312] start...
+02-27 11:44:26[E] SecnvmPowerOff isn't supported.
+02-27 11:44:26[I] cmd [3312] end...[-16777217]
+02-27 11:44:26[I] communicate end -16777217 / length : 0
+02-27 11:53:07[I] communicate start cmd:0x3312, length:64
+02-27 11:53:07[D] this request is from system_server
+02-27 11:53:07[I] cmd [3312] start...
+02-27 11:53:07[E] SecnvmPowerOff isn't supported.
+02-27 11:53:07[I] cmd [3312] end...[-16777217]
+02-27 11:53:07[I] communicate end -16777217 / length : 0
+02-27 15:07:30[I] communicate start cmd:0x3312, length:64
+02-27 15:07:30[D] this request is from system_server
+02-27 15:07:30[I] cmd [3312] start...
+02-27 15:07:30[E] SecnvmPowerOff isn't supported.
+02-27 15:07:30[I] cmd [3312] end...[-16777217]
+02-27 15:07:30[I] communicate end -16777217 / length : 0
+02-27 15:16:00[I] communicate start cmd:0x3312, length:64
+02-27 15:16:00[D] this request is from system_server
+02-27 15:16:00[I] cmd [3312] start...
+02-27 15:16:00[E] SecnvmPowerOff isn't supported.
+02-27 15:16:00[I] cmd [3312] end...[-16777217]
+02-27 15:16:00[I] communicate end -16777217 / length : 0
+02-28 03:00:57[I] communicate start cmd:0x3312, length:64
+02-28 03:00:57[D] this request is from system_server
+02-28 03:00:57[I] cmd [3312] start...
+02-28 03:00:57[E] SecnvmPowerOff isn't supported.
+02-28 03:00:57[I] cmd [3312] end...[-16777217]
+02-28 03:00:57[I] communicate end -16777217 / length : 0
+02-28 05:01:38[I] communicate start cmd:0x3105, length:151
+02-28 05:01:38[D] this request is from /system/bin/keystore
+02-28 05:01:38[I] cmd [3105] start...
+02-28 05:01:38[I] cmd [3105] end...[0]
+02-28 16:08:05[I] communicate start cmd:0x3301, length:64
+02-28 16:08:05[D] this request is from system_server
+02-28 16:08:05[I] cmd [3301] start...
+02-28 16:08:05[E] GetBigdataMsg isn't supported.
+02-28 16:08:05[I] cmd [3301] end...[-16777217]
+02-28 16:08:05[I] communicate end -16777217 / length : 0
+02-28 16:08:05[I] communicate start cmd:0x3101, length:103
+02-28 16:08:05[D] this request is from system_server
+02-28 16:08:05[I] cmd [3101] start...
+02-28 16:08:05[I] cmd [3101] end...[0]
+02-28 16:08:05[I] communicate end 0 / length : 7503
+02-28 16:08:05[I] communicate start cmd:0x3101, length:108
+02-28 16:08:05[D] this request is from system_server
+02-28 16:08:05[I] cmd [3101] start...
+02-28 16:08:05[I] cmd [3101] end...[0]
+02-28 16:08:05[I] communicate end 0 / length : 307424
+02-28 16:08:05[I] communicate start cmd:0x3101, length:105
+02-28 16:08:05[D] this request is from system_server
+02-28 16:08:05[I] cmd [3101] start...
+02-28 16:08:05[E] Failed to stat (No such file or directory)
+02-28 16:08:05[E] read file error
+02-28 16:08:05[I] cmd [3101] end...[-15402]
+02-28 16:08:05[I] communicate end -15402 / length : 0
+02-28 16:08:05[I] communicate start cmd:0x3101, length:110
+02-28 16:08:05[D] this request is from system_server
+02-28 16:08:05[I] cmd [3101] start...
+02-28 16:08:05[E] Failed to stat (No such file or directory)
+02-28 16:08:05[E] read file error
+02-28 16:08:05[I] cmd [3101] end...[-15402]
+02-28 16:08:05[I] communicate end -15402 / length : 0
+02-28 20:10:10[I] communicate start cmd:0x3312, length:64
+02-28 20:10:10[D] this request is from system_server
+02-28 20:10:10[I] cmd [3312] start...
+02-28 20:10:10[E] SecnvmPowerOff isn't supported.
+02-28 20:10:10[I] cmd [3312] end...[-16777217]
+02-28 20:10:10[I] communicate end -16777217 / length : 0
+02-28 20:56:29[I] communicate start cmd:0x3312, length:64
+02-28 20:56:29[D] this request is from system_server
+02-28 20:56:29[I] cmd [3312] start...
+02-28 20:56:29[E] SecnvmPowerOff isn't supported.
+02-28 20:56:29[I] cmd [3312] end...[-16777217]
+02-28 20:56:29[I] communicate end -16777217 / length : 0
+02-28 20:57:55[I] communicate start cmd:0x3312, length:64
+02-28 20:57:55[D] this request is from system_server
+02-28 20:57:55[I] cmd [3312] start...
+02-28 20:57:55[E] SecnvmPowerOff isn't supported.
+02-28 20:57:55[I] cmd [3312] end...[-16777217]
+02-28 20:57:55[I] communicate end -16777217 / length : 0
+02-28 22:37:27[I] communicate start cmd:0x3312, length:64
+02-28 22:37:27[D] this request is from system_server
+02-28 22:37:27[I] cmd [3312] start...
+02-28 22:37:27[E] SecnvmPowerOff isn't supported.
+02-28 22:37:27[I] cmd [3312] end...[-16777217]
+02-28 22:37:27[I] communicate end -16777217 / length : 0
+02-28 23:14:58[I] communicate start cmd:0x3312, length:64
+02-28 23:14:58[D] this request is from system_server
+02-28 23:14:58[I] cmd [3312] start...
+02-28 23:14:58[E] SecnvmPowerOff isn't supported.
+02-28 23:14:58[I] cmd [3312] end...[-16777217]
+02-28 23:14:58[I] communicate end -16777217 / length : 0
+02-28 23:15:04[I] communicate start cmd:0x3312, length:64
+02-28 23:15:04[D] this request is from system_server
+02-28 23:15:04[I] cmd [3312] start...
+02-28 23:15:04[E] SecnvmPowerOff isn't supported.
+02-28 23:15:04[I] cmd [3312] end...[-16777217]
+02-28 23:15:04[I] communicate end -16777217 / length : 0
+03-01 00:14:06[I] communicate start cmd:0x3312, length:64
+03-01 00:14:06[D] this request is from system_server
+03-01 00:14:06[I] cmd [3312] start...
+03-01 00:14:06[E] SecnvmPowerOff isn't supported.
+03-01 00:14:06[I] cmd [3312] end...[-16777217]
+03-01 00:14:06[I] communicate end -16777217 / length : 0
+03-01 00:14:16[I] communicate start cmd:0x3312, length:64
+03-01 00:14:16[D] this request is from system_server
+03-01 00:14:16[I] cmd [3312] start...
+03-01 00:14:16[E] SecnvmPowerOff isn't supported.
+03-01 00:14:16[I] cmd [3312] end...[-16777217]
+03-01 00:14:16[I] communicate end -16777217 / length : 0
+03-01 00:21:40[I] communicate start cmd:0x3312, length:64
+03-01 00:21:40[D] this request is from system_server
+03-01 00:21:40[I] cmd [3312] start...
+03-01 00:21:40[E] SecnvmPowerOff isn't supported.
+03-01 00:21:40[I] cmd [3312] end...[-16777217]
+03-01 00:21:40[I] communicate end -16777217 / length : 0
+03-01 00:21:43[I] communicate start cmd:0x3312, length:64
+03-01 00:21:43[D] this request is from system_server
+03-01 00:21:43[I] cmd [3312] start...
+03-01 00:21:43[E] SecnvmPowerOff isn't supported.
+03-01 00:21:43[I] cmd [3312] end...[-16777217]
+03-01 00:21:43[I] communicate end -16777217 / length : 0
+03-01 00:23:52[I] communicate start cmd:0x3312, length:64
+03-01 00:23:52[D] this request is from system_server
+03-01 00:23:52[I] cmd [3312] start...
+03-01 00:23:52[E] SecnvmPowerOff isn't supported.
+03-01 00:23:52[I] cmd [3312] end...[-16777217]
+03-01 00:23:52[I] communicate end -16777217 / length : 0
+03-01 01:21:31[I] communicate start cmd:0x3312, length:64
+03-01 01:21:31[D] this request is from system_server
+03-01 01:21:31[I] cmd [3312] start...
+03-01 01:21:31[E] SecnvmPowerOff isn't supported.
+03-01 01:21:31[I] cmd [3312] end...[-16777217]
+03-01 01:21:31[I] communicate end -16777217 / length : 0
+03-01 01:25:14[I] communicate start cmd:0x3312, length:64
+03-01 01:25:14[D] this request is from system_server
+03-01 01:25:14[I] cmd [3312] start...
+03-01 01:25:14[E] SecnvmPowerOff isn't supported.
+03-01 01:25:14[I] cmd [3312] end...[-16777217]
+03-01 01:25:14[I] communicate end -16777217 / length : 0
+03-01 02:20:04[I] communicate start cmd:0x3312, length:64
+03-01 02:20:04[D] this request is from system_server
+03-01 02:20:04[I] cmd [3312] start...
+03-01 02:20:04[E] SecnvmPowerOff isn't supported.
+03-01 02:20:04[I] cmd [3312] end...[-16777217]
+03-01 02:20:04[I] communicate end -16777217 / length : 0
+03-01 02:28:51[I] communicate start cmd:0x3312, length:64
+03-01 02:28:51[D] this request is from system_server
+03-01 02:28:51[I] cmd [3312] start...
+03-01 02:28:51[E] SecnvmPowerOff isn't supported.
+03-01 02:28:51[I] cmd [3312] end...[-16777217]
+03-01 02:28:51[I] communicate end -16777217 / length : 0
+03-01 02:36:57[I] communicate start cmd:0x3312, length:64
+03-01 02:36:57[D] this request is from system_server
+03-01 02:36:57[I] cmd [3312] start...
+03-01 02:36:57[E] SecnvmPowerOff isn't supported.
+03-01 02:36:57[I] cmd [3312] end...[-16777217]
+03-01 02:36:57[I] communicate end -16777217 / length : 0
+03-01 03:50:00[I] communicate start cmd:0x3312, length:64
+03-01 03:50:00[D] this request is from system_server
+03-01 03:50:00[I] cmd [3312] start...
+03-01 03:50:00[E] SecnvmPowerOff isn't supported.
+03-01 03:50:00[I] cmd [3312] end...[-16777217]
+03-01 03:50:00[I] communicate end -16777217 / length : 0
+03-01 03:51:56[I] communicate start cmd:0x3312, length:64
+03-01 03:51:56[D] this request is from system_server
+03-01 03:51:56[I] cmd [3312] start...
+03-01 03:51:56[E] SecnvmPowerOff isn't supported.
+03-01 03:51:56[I] cmd [3312] end...[-16777217]
+03-01 03:51:56[I] communicate end -16777217 / length : 0
+03-01 05:05:22[I] communicate start cmd:0x3312, length:64
+03-01 05:05:22[D] this request is from system_server
+03-01 05:05:22[I] cmd [3312] start...
+03-01 05:05:22[E] SecnvmPowerOff isn't supported.
+03-01 05:05:22[I] cmd [3312] end...[-16777217]
+03-01 05:05:22[I] communicate end -16777217 / length : 0
+03-01 05:27:45[I] communicate start cmd:0x3312, length:64
+03-01 05:27:45[D] this request is from system_server
+03-01 05:27:45[I] cmd [3312] start...
+03-01 05:27:45[E] SecnvmPowerOff isn't supported.
+03-01 05:27:45[I] cmd [3312] end...[-16777217]
+03-01 05:27:45[I] communicate end -16777217 / length : 0
+03-01 05:44:47[I] communicate start cmd:0x3312, length:64
+03-01 05:44:47[D] this request is from system_server
+03-01 05:44:47[I] cmd [3312] start...
+03-01 05:44:47[E] SecnvmPowerOff isn't supported.
+03-01 05:44:47[I] cmd [3312] end...[-16777217]
+03-01 05:44:47[I] communicate end -16777217 / length : 0
+03-01 05:45:53[I] communicate start cmd:0x3312, length:64
+03-01 05:45:53[D] this request is from system_server
+03-01 05:45:53[I] cmd [3312] start...
+03-01 05:45:53[E] SecnvmPowerOff isn't supported.
+03-01 05:45:53[I] cmd [3312] end...[-16777217]
+03-01 05:45:53[I] communicate end -16777217 / length : 0
+03-01 07:21:04[I] communicate start cmd:0x3312, length:64
+03-01 07:21:04[D] this request is from system_server
+03-01 07:21:04[I] cmd [3312] start...
+03-01 07:21:04[E] SecnvmPowerOff isn't supported.
+03-01 07:21:04[I] cmd [3312] end...[-16777217]
+03-01 07:21:04[I] communicate end -16777217 / length : 0
+03-01 07:26:26[I] communicate start cmd:0x3312, length:64
+03-01 07:26:26[D] this request is from system_server
+03-01 07:26:26[I] cmd [3312] start...
+03-01 07:26:26[E] SecnvmPowerOff isn't supported.
+03-01 07:26:26[I] cmd [3312] end...[-16777217]
+03-01 07:26:26[I] communicate end -16777217 / length : 0
+03-01 07:50:32[I] communicate start cmd:0x3312, length:64
+03-01 07:50:32[D] this request is from system_server
+03-01 07:50:32[I] cmd [3312] start...
+03-01 07:50:32[E] SecnvmPowerOff isn't supported.
+03-01 07:50:32[I] cmd [3312] end...[-16777217]
+03-01 07:50:32[I] communicate end -16777217 / length : 0
+03-01 07:50:58[I] communicate start cmd:0x3105, length:156
+03-01 07:50:58[D] this request is from /system/bin/keystore
+03-01 07:50:58[I] cmd [3105] start...
+03-01 07:50:58[I] cmd [3105] end...[0]
+03-01 07:50:58[I] communicate end 0 / length : 0
+03-01 07:52:12[I] communicate start cmd:0x3312, length:64
+03-01 07:52:12[D] this request is from system_server
+03-01 07:52:12[I] cmd [3312] start...
+03-01 07:52:12[E] SecnvmPowerOff isn't supported.
+03-01 07:52:12[I] cmd [3312] end...[-16777217]
+03-01 07:52:12[I] communicate end -16777217 / length : 0
+03-01 07:58:33[I] communicate start cmd:0x3312, length:64
+03-01 07:58:33[D] this request is from system_server
+03-01 07:58:33[I] cmd [3312] start...
+03-01 07:58:33[E] SecnvmPowerOff isn't supported.
+03-01 07:58:33[I] cmd [3312] end...[-16777217]
+03-01 07:58:33[I] communicate end -16777217 / length : 0
+03-01 07:58:46[I] communicate start cmd:0x3105, length:156
+03-01 07:58:46[D] this request is from /system/bin/keystore
+03-01 07:58:46[I] cmd [3105] start...
+03-01 07:58:46[I] cmd [3105] end...[0]
+03-01 07:58:46[I] communicate end 0 / length : 0
+03-01 08:03:25[I] communicate start cmd:0x3312, length:64
+03-01 08:03:25[D] this request is from system_server
+03-01 08:03:25[I] cmd [3312] start...
+03-01 08:03:25[E] SecnvmPowerOff isn't supported.
+03-01 08:03:25[I] cmd [3312] end...[-16777217]
+03-01 08:03:25[I] communicate end -16777217 / length : 0
+03-01 08:35:44[I] communicate start cmd:0x3312, length:64
+03-01 08:35:44[D] this request is from system_server
+03-01 08:35:44[I] cmd [3312] start...
+03-01 08:35:44[E] SecnvmPowerOff isn't supported.
+03-01 08:35:44[I] cmd [3312] end...[-16777217]
+03-01 08:35:44[I] communicate end -16777217 / length : 0
+03-01 10:03:37[I] communicate start cmd:0x3312, length:64
+03-01 10:03:37[D] this request is from system_server
+03-01 10:03:37[I] cmd [3312] start...
+03-01 10:03:37[E] SecnvmPowerOff isn't supported.
+03-01 10:03:37[I] cmd [3312] end...[-16777217]
+03-01 10:03:37[I] communicate end -16777217 / length : 0
+03-01 10:05:17[I] communicate start cmd:0x3312, length:64
+03-01 10:05:17[D] this request is from system_server
+03-01 10:05:17[I] cmd [3312] start...
+03-01 10:05:17[E] SecnvmPowerOff isn't supported.
+03-01 10:05:17[I] cmd [3312] end...[-16777217]
+03-01 10:05:17[I] communicate end -16777217 / length : 0
+03-01 10:05:31[I] communicate start cmd:0x3312, length:64
+03-01 10:05:31[D] this request is from system_server
+03-01 10:05:31[I] cmd [3312] start...
+03-01 10:05:31[E] SecnvmPowerOff isn't supported.
+03-01 10:05:31[I] cmd [3312] end...[-16777217]
+03-01 10:05:31[I] communicate end -16777217 / length : 0
+03-01 10:24:41[I] communicate start cmd:0x3312, length:64
+03-01 10:24:41[D] this request is from system_server
+03-01 10:24:41[I] cmd [3312] start...
+03-01 10:24:41[E] SecnvmPowerOff isn't supported.
+03-01 10:24:41[I] cmd [3312] end...[-16777217]
+03-01 10:24:41[I] communicate end -16777217 / length : 0
+03-01 10:56:11[I] communicate start cmd:0x3312, length:64
+03-01 10:56:11[D] this request is from system_server
+03-01 10:56:11[I] cmd [3312] start...
+03-01 10:56:11[E] SecnvmPowerOff isn't supported.
+03-01 10:56:11[I] cmd [3312] end...[-16777217]
+03-01 10:56:11[I] communicate end -16777217 / length : 0
+03-01 14:00:02[I] communicate start cmd:0x3312, length:64
+03-01 14:00:02[D] this request is from system_server
+03-01 14:00:02[I] cmd [3312] start...
+03-01 14:00:02[E] SecnvmPowerOff isn't supported.
+03-01 14:00:02[I] cmd [3312] end...[-16777217]
+03-01 14:00:02[I] communicate end -16777217 / length : 0
+03-01 15:56:47[I] communicate start cmd:0x3312, length:64
+03-01 15:56:47[D] this request is from system_server
+03-01 15:56:47[I] cmd [3312] start...
+03-01 15:56:47[E] SecnvmPowerOff isn't supported.
+03-01 15:56:47[I] cmd [3312] end...[-16777217]
+03-01 15:56:47[I] communicate end -16777217 / length : 0
+03-01 15:56:49[I] communicate start cmd:0x3312, length:64
+03-01 15:56:49[D] this request is from system_server
+03-01 15:56:49[I] cmd [3312] start...
+03-01 15:56:49[E] SecnvmPowerOff isn't supported.
+03-01 15:56:49[I] cmd [3312] end...[-16777217]
+03-01 15:56:49[I] communicate end -16777217 / length : 0
+03-01 16:04:31[I] communicate start cmd:0x3312, length:64
+03-01 16:04:31[D] this request is from system_server
+03-01 16:04:31[I] cmd [3312] start...
+03-01 16:04:31[E] SecnvmPowerOff isn't supported.
+03-01 16:04:31[I] cmd [3312] end...[-16777217]
+03-01 16:04:31[I] communicate end -16777217 / length : 0
+03-01 16:08:05[I] communicate start cmd:0x3105, length:151
+03-01 16:08:05[D] this request is from /system/bin/keystore
+03-01 16:08:05[I] cmd [3105] start...
+03-01 16:08:05[I] cmd [3105] end...[0]
+03-01 16:08:05[I] communicate end 0 / length : 0
+03-01 16:10:35[I] communicate start cmd:0x3312, length:64
+03-01 16:10:35[D] this request is from system_server
+03-01 16:10:35[I] cmd [3312] start...
+03-01 16:10:35[E] SecnvmPowerOff isn't supported.
+03-01 16:10:35[I] cmd [3312] end...[-16777217]
+03-01 16:10:35[I] communicate end -16777217 / length : 0
+03-01 18:51:38[I] communicate start cmd:0x3312, length:64
+03-01 18:51:38[D] this request is from system_server
+03-01 18:51:38[I] cmd [3312] start...
+03-01 18:51:38[E] SecnvmPowerOff isn't supported.
+03-01 18:51:38[I] cmd [3312] end...[-16777217]
+03-01 18:51:38[I] communicate end -16777217 / length : 0
+03-02 00:38:33[I] communicate start cmd:0x3105, length:156
+03-02 00:38:33[D] this request is from /system/bin/keystore
+03-02 00:38:33[I] cmd [3105] start...
+03-02 00:38:33[I] cmd [3105] end...[0]
+03-02 00:38:33[I] communicate end 0 / length : 0
+03-02 01:01:42[I] communicate start cmd:0x3105, length:156
+03-02 01:01:42[D] this request is from /system/bin/keystore
+03-02 01:01:42[I] cmd [3105] start...
+03-02 01:01:42[I] cmd [3105] end...[0]
+03-02 01:01:42[I] communicate end 0 / length : 0
+03-02 03:06:46[I] communicate start cmd:0x3312, length:64
+03-02 03:06:46[D] this request is from system_server
+03-02 03:06:46[I] cmd [3312] start...
+03-02 03:06:46[E] SecnvmPowerOff isn't supported.
+03-02 03:06:46[I] cmd [3312] end...[-16777217]
+03-02 03:06:46[I] communicate end -16777217 / length : 0
+03-02 03:25:34[I] communicate start cmd:0x3312, length:64
+03-02 03:25:34[D] this request is from system_server
+03-02 03:25:34[I] cmd [3312] start...
+03-02 03:25:34[E] SecnvmPowerOff isn't supported.
+03-02 03:25:34[I] cmd [3312] end...[-16777217]
+03-02 03:25:34[I] communicate end -16777217 / length : 0
+03-02 03:53:08[I] communicate start cmd:0x3312, length:64
+03-02 03:53:08[D] this request is from system_server
+03-02 03:53:08[I] cmd [3312] start...
+03-02 03:53:08[E] SecnvmPowerOff isn't supported.
+03-02 03:53:08[I] cmd [3312] end...[-16777217]
+03-02 03:53:08[I] communicate end -16777217 / length : 0
+03-02 03:55:02[I] communicate start cmd:0x3312, length:64
+03-02 03:55:02[D] this request is from system_server
+03-02 03:55:02[I] cmd [3312] start...
+03-02 03:55:02[E] SecnvmPowerOff isn't supported.
+03-02 03:55:02[I] cmd [3312] end...[-16777217]
+03-02 03:55:02[I] communicate end -16777217 / length : 0
+03-02 04:03:32[I] communicate start cmd:0x3312, length:64
+03-02 04:03:32[D] this request is from system_server
+03-02 04:03:32[I] cmd [3312] start...
+03-02 04:03:32[E] SecnvmPowerOff isn't supported.
+03-02 04:03:32[I] cmd [3312] end...[-16777217]
+03-02 04:03:32[I] communicate end -16777217 / length : 0
+03-02 04:06:53[I] communicate start cmd:0x3312, length:64
+03-02 04:06:53[D] this request is from system_server
+03-02 04:06:53[I] cmd [3312] start...
+03-02 04:06:53[E] SecnvmPowerOff isn't supported.
+03-02 04:06:53[I] cmd [3312] end...[-16777217]
+03-02 04:06:53[I] communicate end -16777217 / length : 0
+03-02 04:19:40[I] communicate start cmd:0x3312, length:64
+03-02 04:19:40[D] this request is from system_server
+03-02 04:19:40[I] cmd [3312] start...
+03-02 04:19:40[E] SecnvmPowerOff isn't supported.
+03-02 04:19:40[I] cmd [3312] end...[-16777217]
+03-02 04:19:40[I] communicate end -16777217 / length : 0
+03-02 04:20:10[I] communicate start cmd:0x3105, length:140
+03-02 04:20:10[D] this request is from /system/bin/keystore
+03-02 04:20:10[I] cmd [3105] start...
+03-02 04:20:10[I] cmd [3105] end...[0]
+03-02 04:20:10[I] communicate end 0 / length : 0
+03-02 04:23:25[I] communicate start cmd:0x3312, length:64
+03-02 04:23:25[D] this request is from system_server
+03-02 04:23:25[I] cmd [3312] start...
+03-02 04:23:25[E] SecnvmPowerOff isn't supported.
+03-02 04:23:25[I] cmd [3312] end...[-16777217]
+03-02 07:27:05[I] communicate start cmd:0x3301, length:64
+03-02 07:27:05[D] this request is from system_server
+03-02 07:27:05[I] cmd [3301] start...
+03-02 07:27:05[E] GetBigdataMsg isn't supported.
+03-02 07:27:05[I] cmd [3301] end...[-16777217]
+03-02 07:27:05[I] communicate end -16777217 / length : 0
+03-02 07:27:05[I] communicate start cmd:0x3101, length:103
+03-02 07:27:05[D] this request is from system_server
+03-02 07:27:05[I] cmd [3101] start...
+03-02 07:27:05[I] cmd [3101] end...[0]
+03-02 07:27:05[I] communicate end 0 / length : 25640
+03-02 07:27:05[I] communicate start cmd:0x3101, length:108
+03-02 07:27:05[D] this request is from system_server
+03-02 07:27:05[I] cmd [3101] start...
+03-02 07:27:05[I] cmd [3101] end...[0]
+03-02 07:27:05[I] communicate end 0 / length : 307424
+03-02 07:27:05[I] communicate start cmd:0x3101, length:105
+03-02 07:27:05[D] this request is from system_server
+03-02 07:27:05[I] cmd [3101] start...
+03-02 07:27:05[E] Failed to stat (No such file or directory)
+03-02 07:27:05[E] read file error
+03-02 07:27:05[I] cmd [3101] end...[-15402]
+03-02 07:27:05[I] communicate end -15402 / length : 0
+03-02 07:27:05[I] communicate start cmd:0x3101, length:110
+03-02 07:27:05[D] this request is from system_server
+03-02 07:27:05[I] cmd [3101] start...
+03-02 07:27:05[E] Failed to stat (No such file or directory)
+03-02 07:27:05[E] read file error
+03-02 07:27:05[I] cmd [3101] end...[-15402]
+03-02 07:27:05[I] communicate end -15402 / length : 0
+03-02 04:28:37[I] communicate start cmd:0x2041, length:64
+03-02 04:28:37[D] this request is from system_server
+03-02 04:28:37[I] cmd [2041] start...
+03-02 04:28:37[I] DRK file exists. 2555
+03-02 04:28:37[I] cmd [2041] end...[0]
+03-02 04:28:37[I] communicate end 0 / length : 0
+03-02 04:28:37[I] communicate start cmd:0x2052, length:64
+03-02 04:28:37[D] this request is from system_server
+03-02 04:28:37[I] cmd [2052] start...
+03-02 04:28:37[I] DRK file exists. 2555
+03-02 04:28:37[I] cmd [2052] end...[0]
+03-02 04:28:37[I] communicate end 0 / length : 115
+03-02 04:28:37[I] communicate start cmd:0x2031, length:148
+03-02 04:28:37[D] this request is from system_server
+03-02 04:28:37[I] cmd [2031] start...
+03-02 04:28:37[I] DRK file exists. 2555
+03-02 04:28:37[E] Carrier length is not matched.
+03-02 04:28:37[I] IMEI supported model !!!
+03-02 04:28:37[I] receiveNotifyCB end
+03-02 04:28:37[E] Carrier length is not matched.
+03-02 04:28:37[I] IMEI supported model !!!
+03-02 04:28:37[I] receiveNotifyCB end
+03-02 04:28:37[I] DRK file exists. 2555
+03-02 04:28:39[I] cmd [2031] end...[0]
+03-02 04:28:39[I] communicate end 0 / length : 3940
+03-02 04:28:39[I] communicate start cmd:0x2032, length:64
+03-02 04:28:39[D] this request is from system_server
+03-02 04:28:39[I] cmd [2032] start...
+03-02 04:28:39[I] cmd [2032] end...[0]
+03-02 04:28:39[I] communicate end 0 / length : 0
+03-02 04:48:22[I] communicate start cmd:0x2031, length:148
+03-02 04:48:22[D] this request is from system_server
+03-02 04:48:22[I] cmd [2031] start...
+03-02 04:48:22[I] DRK file exists. 2555
+03-02 04:48:22[E] Carrier length is not matched.
+03-02 04:48:22[I] IMEI supported model !!!
+03-02 04:48:22[I] receiveNotifyCB end
+03-02 04:48:22[E] Carrier length is not matched.
+03-02 04:48:22[I] IMEI supported model !!!
+03-02 04:48:22[I] receiveNotifyCB end
+03-02 04:48:22[I] DRK file exists. 2555
+03-02 04:48:24[I] cmd [2031] end...[0]
+03-02 04:48:24[I] communicate end 0 / length : 3942
+03-02 04:48:24[I] communicate start cmd:0x2032, length:64
+03-02 04:48:24[D] this request is from system_server
+03-02 04:48:24[I] cmd [2032] start...
+03-02 04:48:24[I] cmd [2032] end...[0]
+03-02 04:48:24[I] communicate end 0 / length : 0
+03-02 04:51:17[I] communicate start cmd:0x3105, length:140
+03-02 04:51:17[D] this request is from /system/bin/keystore
+03-02 04:51:17[I] cmd [3105] start...
+03-02 04:51:17[I] cmd [3105] end...[0]
+03-02 04:51:17[I] communicate end 0 / length : 0
+03-02 04:54:56[I] communicate start cmd:0x3312, length:64
+03-02 04:54:56[D] this request is from system_server
+03-02 04:54:56[I] cmd [3312] start...
+03-02 04:54:56[E] SecnvmPowerOff isn't supported.
+03-02 04:54:56[I] cmd [3312] end...[-16777217]
+03-02 04:54:56[I] communicate end -16777217 / length : 0
+03-02 05:09:50[I] communicate start cmd:0x3312, length:64
+03-02 05:09:50[D] this request is from system_server
+03-02 05:09:50[I] cmd [3312] start...
+03-02 05:09:50[E] SecnvmPowerOff isn't supported.
+03-02 05:09:50[I] cmd [3312] end...[-16777217]
+03-02 05:09:50[I] communicate end -16777217 / length : 0
+03-02 05:10:43[I] communicate start cmd:0x3105, length:140
+03-02 05:10:43[D] this request is from /system/bin/keystore
+03-02 05:10:43[I] cmd [3105] start...
+03-02 05:10:43[I] cmd [3105] end...[0]
+03-02 05:10:43[I] communicate end 0 / length : 0
+03-02 05:14:12[I] communicate start cmd:0x3105, length:151
+03-02 05:14:12[D] this request is from /system/bin/keystore
+03-02 05:14:12[I] cmd [3105] start...
+03-02 05:14:12[I] cmd [3105] end...[0]
+03-02 05:14:12[I] communicate end 0 / length : 0
+03-02 05:14:41[I] communicate start cmd:0x3105, length:179
+03-02 05:14:41[D] this request is from /system/bin/keystore
+03-02 05:14:41[I] cmd [3105] start...
+03-02 05:14:41[I] cmd [3105] end...[0]
+03-02 05:14:41[I] communicate end 0 / length : 0
+03-02 05:20:23[I] communicate start cmd:0x3312, length:64
+03-02 05:20:23[D] this request is from system_server
+03-02 05:20:23[I] cmd [3312] start...
+03-02 05:20:23[E] SecnvmPowerOff isn't supported.
+03-02 05:20:23[I] cmd [3312] end...[-16777217]
+03-02 05:20:23[I] communicate end -16777217 / length : 0
+03-02 05:20:39[I] communicate start cmd:0x3105, length:159
+03-02 05:20:39[D] this request is from /system/bin/keystore
+03-02 05:20:39[I] cmd [3105] start...
+03-02 05:20:39[I] cmd [3105] end...[0]
+03-02 05:20:39[I] communicate end 0 / length : 0
+03-02 05:40:19[I] communicate start cmd:0x3312, length:64
+03-02 05:40:19[D] this request is from system_server
+03-02 05:40:19[I] cmd [3312] start...
+03-02 05:40:19[E] SecnvmPowerOff isn't supported.
+03-02 05:40:19[I] cmd [3312] end...[-16777217]
+03-02 05:40:19[I] communicate end -16777217 / length : 0
+03-02 05:57:25[I] communicate start cmd:0x3312, length:64
+03-02 05:57:25[D] this request is from system_server
+03-02 05:57:25[I] cmd [3312] start...
+03-02 05:57:25[E] SecnvmPowerOff isn't supported.
+03-02 05:57:25[I] cmd [3312] end...[-16777217]
+03-02 05:57:25[I] communicate end -16777217 / length : 0
+03-02 06:02:45[I] communicate start cmd:0x3105, length:140
+03-02 06:02:45[D] this request is from /system/bin/keystore
+03-02 06:02:45[I] cmd [3105] start...
+03-02 06:02:45[I] cmd [3105] end...[0]
+03-02 06:02:45[I] communicate end 0 / length : 0
+03-02 06:02:47[I] communicate start cmd:0x2041, length:64
+03-02 06:02:47[D] this request is from system_server
+03-02 06:02:47[I] cmd [2041] start...
+03-02 06:02:47[I] DRK file exists. 2555
+03-02 06:02:48[I] cmd [2041] end...[0]
+03-02 06:02:48[I] communicate end 0 / length : 0
+03-02 06:02:48[I] communicate start cmd:0x2031, length:148
+03-02 06:02:48[D] this request is from system_server
+03-02 06:02:48[I] cmd [2031] start...
+03-02 06:02:48[I] DRK file exists. 2555
+03-02 06:02:48[E] Carrier length is not matched.
+03-02 06:02:48[I] IMEI supported model !!!
+03-02 06:02:48[I] receiveNotifyCB end
+03-02 06:02:48[E] Carrier length is not matched.
+03-02 06:02:48[I] IMEI supported model !!!
+03-02 06:02:48[I] receiveNotifyCB end
+03-02 06:02:48[I] DRK file exists. 2555
+03-02 06:02:50[I] cmd [2031] end...[0]
+03-02 06:02:50[I] communicate end 0 / length : 3942
+03-02 06:02:50[I] communicate start cmd:0x2032, length:64
+03-02 06:02:50[D] this request is from system_server
+03-02 06:02:50[I] cmd [2032] start...
+03-02 06:02:50[I] cmd [2032] end...[0]
+03-02 06:02:50[I] communicate end 0 / length : 0
+03-02 06:02:51[I] communicate start cmd:0x2041, length:64
+03-02 06:02:51[D] this request is from system_server
+03-02 06:02:51[I] cmd [2041] start...
+03-02 06:02:51[I] DRK file exists. 2555
+03-02 06:02:51[I] cmd [2041] end...[0]
+03-02 06:02:51[I] communicate end 0 / length : 0
+03-02 06:02:51[I] communicate start cmd:0x2031, length:148
+03-02 06:02:51[D] this request is from system_server
+03-02 06:02:51[I] cmd [2031] start...
+03-02 06:02:51[I] DRK file exists. 2555
+03-02 06:02:51[E] Carrier length is not matched.
+03-02 06:02:51[I] IMEI supported model !!!
+03-02 06:02:51[I] receiveNotifyCB end
+03-02 06:02:51[E] Carrier length is not matched.
+03-02 06:02:51[I] IMEI supported model !!!
+03-02 06:02:51[I] receiveNotifyCB end
+03-02 06:02:51[I] DRK file exists. 2555
+03-02 06:02:53[I] cmd [2031] end...[0]
+03-02 06:02:53[I] communicate end 0 / length : 3943
+03-02 06:02:53[I] communicate start cmd:0x2032, length:64
+03-02 06:02:53[D] this request is from system_server
+03-02 06:02:53[I] cmd [2032] start...
+03-02 06:02:53[I] cmd [2032] end...[0]
+03-02 06:02:53[I] communicate end 0 / length : 0
+03-02 06:10:55[I] communicate start cmd:0x3312, length:64
+03-02 06:10:55[D] this request is from system_server
+03-02 06:10:55[I] cmd [3312] start...
+03-02 06:10:55[E] SecnvmPowerOff isn't supported.
+03-02 06:10:55[I] cmd [3312] end...[-16777217]
+03-02 06:10:55[I] communicate end -16777217 / length : 0
+03-02 06:29:16[I] communicate start cmd:0x3312, length:64
+03-02 06:29:16[D] this request is from system_server
+03-02 06:29:16[I] cmd [3312] start...
+03-02 06:29:16[E] SecnvmPowerOff isn't supported.
+03-02 06:29:16[I] cmd [3312] end...[-16777217]
+03-02 06:29:16[I] communicate end -16777217 / length : 0
+03-02 06:37:17[I] communicate start cmd:0x3312, length:64
+03-02 06:37:17[D] this request is from system_server
+03-02 06:37:17[I] cmd [3312] start...
+03-02 06:37:17[E] SecnvmPowerOff isn't supported.
+03-02 06:37:17[I] cmd [3312] end...[-16777217]
+03-02 06:37:17[I] communicate end -16777217 / length : 0
+03-02 06:37:59[I] communicate start cmd:0x3312, length:64
+03-02 06:37:59[D] this request is from system_server
+03-02 06:37:59[I] cmd [3312] start...
+03-02 06:37:59[E] SecnvmPowerOff isn't supported.
+03-02 06:37:59[I] cmd [3312] end...[-16777217]
+03-02 06:37:59[I] communicate end -16777217 / length : 0
+03-02 06:39:19[I] communicate start cmd:0x3312, length:64
+03-02 06:39:19[D] this request is from system_server
+03-02 06:39:19[I] cmd [3312] start...
+03-02 06:39:19[E] SecnvmPowerOff isn't supported.
+03-02 06:39:19[I] cmd [3312] end...[-16777217]
+03-02 06:39:19[I] communicate end -16777217 / length : 0
+03-02 07:00:41[I] communicate start cmd:0x3312, length:64
+03-02 07:00:41[D] this request is from system_server
+03-02 07:00:41[I] cmd [3312] start...
+03-02 07:00:41[E] SecnvmPowerOff isn't supported.
+03-02 07:00:41[I] cmd [3312] end...[-16777217]
+03-02 07:00:41[I] communicate end -16777217 / length : 0
+03-02 07:09:49[I] communicate start cmd:0x3105, length:179
+03-02 07:09:49[D] this request is from /system/bin/keystore
+03-02 07:09:49[I] cmd [3105] start...
+03-02 07:09:49[I] cmd [3105] end...[0]
+03-02 07:09:49[I] communicate end 0 / length : 0
+03-02 07:09:49[I] communicate start cmd:0x3105, length:179
+03-02 07:09:49[D] this request is from /system/bin/keystore
+03-02 07:09:49[I] cmd [3105] start...
+03-02 07:09:49[I] cmd [3105] end...[0]
+03-02 07:09:49[I] communicate end 0 / length : 0
+03-02 07:09:49[I] communicate start cmd:0x3105, length:179
+03-02 07:09:49[D] this request is from /system/bin/keystore
+03-02 07:09:49[I] cmd [3105] start...
+03-02 07:09:49[I] cmd [3105] end...[0]
+03-02 07:09:49[I] communicate end 0 / length : 0
+03-02 07:51:27[I] communicate start cmd:0x3312, length:64
+03-02 07:51:27[D] this request is from system_server
+03-02 07:51:27[I] cmd [3312] start...
+03-02 07:51:27[E] SecnvmPowerOff isn't supported.
+03-02 07:51:27[I] cmd [3312] end...[-16777217]
+03-02 07:51:27[I] communicate end -16777217 / length : 0
+03-02 07:54:04[I] communicate start cmd:0x3312, length:64
+03-02 07:54:04[D] this request is from system_server
+03-02 07:54:04[I] cmd [3312] start...
+03-02 07:54:04[E] SecnvmPowerOff isn't supported.
+03-02 07:54:04[I] cmd [3312] end...[-16777217]
+03-02 07:54:04[I] communicate end -16777217 / length : 0
+03-02 08:02:52[I] communicate start cmd:0x3312, length:64
+03-02 08:02:52[D] this request is from system_server
+03-02 08:02:52[I] cmd [3312] start...
+03-02 08:02:52[E] SecnvmPowerOff isn't supported.
+03-02 08:02:52[I] cmd [3312] end...[-16777217]
+03-02 08:02:52[I] communicate end -16777217 / length : 0
+03-02 08:33:40[I] communicate start cmd:0x3312, length:64
+03-02 08:33:40[D] this request is from system_server
+03-02 08:33:40[I] cmd [3312] start...
+03-02 08:33:40[E] SecnvmPowerOff isn't supported.
+03-02 08:33:40[I] cmd [3312] end...[-16777217]
+03-02 08:33:40[I] communicate end -16777217 / length : 0
+03-02 08:53:29[I] communicate start cmd:0x3312, length:64
+03-02 08:53:29[D] this request is from system_server
+03-02 08:53:29[I] cmd [3312] start...
+03-02 08:53:29[E] SecnvmPowerOff isn't supported.
+03-02 08:53:29[I] cmd [3312] end...[-16777217]
+03-02 08:53:29[I] communicate end -16777217 / length : 0
+03-02 09:21:31[I] communicate start cmd:0x3312, length:64
+03-02 09:21:31[D] this request is from system_server
+03-02 09:21:31[I] cmd [3312] start...
+03-02 09:21:31[E] SecnvmPowerOff isn't supported.
+03-02 09:21:31[I] cmd [3312] end...[-16777217]
+03-02 09:21:31[I] communicate end -16777217 / length : 0
+03-02 09:27:19[I] communicate start cmd:0x3312, length:64
+03-02 09:27:19[D] this request is from system_server
+03-02 09:27:19[I] cmd [3312] start...
+03-02 09:27:19[E] SecnvmPowerOff isn't supported.
+03-02 09:27:19[I] cmd [3312] end...[-16777217]
+03-02 09:27:19[I] communicate end -16777217 / length : 0
+03-02 09:29:07[I] communicate start cmd:0x3312, length:64
+03-02 09:29:07[D] this request is from system_server
+03-02 09:29:07[I] cmd [3312] start...
+03-02 09:29:07[E] SecnvmPowerOff isn't supported.
+03-02 09:29:07[I] cmd [3312] end...[-16777217]
+03-02 09:29:07[I] communicate end -16777217 / length : 0
+03-02 09:30:40[I] communicate start cmd:0x3312, length:64
+03-02 09:30:40[D] this request is from system_server
+03-02 09:30:40[I] cmd [3312] start...
+03-02 09:30:40[E] SecnvmPowerOff isn't supported.
+03-02 09:30:40[I] cmd [3312] end...[-16777217]
+03-02 09:30:40[I] communicate end -16777217 / length : 0
+03-02 09:32:11[I] communicate start cmd:0x3312, length:64
+03-02 09:32:11[D] this request is from system_server
+03-02 09:32:11[I] cmd [3312] start...
+03-02 09:32:11[E] SecnvmPowerOff isn't supported.
+03-02 09:32:11[I] cmd [3312] end...[-16777217]
+03-02 09:32:11[I] communicate end -16777217 / length : 0
+03-02 09:34:04[I] communicate start cmd:0x3105, length:179
+03-02 09:34:04[D] this request is from /system/bin/keystore
+03-02 09:34:04[I] cmd [3105] start...
+03-02 09:34:04[I] cmd [3105] end...[0]
+03-02 09:34:04[I] communicate end 0 / length : 0
+03-02 09:37:18[I] communicate start cmd:0x3312, length:64
+03-02 09:37:18[D] this request is from system_server
+03-02 09:37:18[I] cmd [3312] start...
+03-02 09:37:18[E] SecnvmPowerOff isn't supported.
+03-02 09:37:18[I] cmd [3312] end...[-16777217]
+03-02 09:37:18[I] communicate end -16777217 / length : 0
+03-02 09:38:34[I] communicate start cmd:0x3312, length:64
+03-02 09:38:34[D] this request is from system_server
+03-02 09:38:34[I] cmd [3312] start...
+03-02 09:38:34[E] SecnvmPowerOff isn't supported.
+03-02 09:38:34[I] cmd [3312] end...[-16777217]
+03-02 09:38:34[I] communicate end -16777217 / length : 0
+03-02 09:41:01[I] communicate start cmd:0x3312, length:64
+03-02 09:41:01[D] this request is from system_server
+03-02 09:41:01[I] cmd [3312] start...
+03-02 09:41:01[E] SecnvmPowerOff isn't supported.
+03-02 09:41:01[I] cmd [3312] end...[-16777217]
+03-02 09:41:01[I] communicate end -16777217 / length : 0
+03-02 09:42:34[I] communicate start cmd:0x3312, length:64
+03-02 09:42:34[D] this request is from system_server
+03-02 09:42:34[I] cmd [3312] start...
+03-02 09:42:34[E] SecnvmPowerOff isn't supported.
+03-02 09:42:34[I] cmd [3312] end...[-16777217]
+03-02 09:42:34[I] communicate end -16777217 / length : 0
+03-02 09:46:38[I] communicate start cmd:0x3312, length:64
+03-02 09:46:38[D] this request is from system_server
+03-02 09:46:38[I] cmd [3312] start...
+03-02 09:46:38[E] SecnvmPowerOff isn't supported.
+03-02 09:46:38[I] cmd [3312] end...[-16777217]
+03-02 09:46:38[I] communicate end -16777217 / length : 0
+03-02 09:47:38[I] communicate start cmd:0x3105, length:179
+03-02 09:47:38[D] this request is from /system/bin/keystore
+03-02 09:47:38[I] cmd [3105] start...
+03-02 09:47:38[I] cmd [3105] end...[0]
+03-02 09:47:38[I] communicate end 0 / length : 0
+03-02 09:48:27[I] communicate start cmd:0x3105, length:179
+03-02 09:48:27[D] this request is from /system/bin/keystore
+03-02 09:48:27[I] cmd [3105] start...
+03-02 09:48:27[I] cmd [3105] end...[0]
+03-02 09:48:27[I] communicate end 0 / length : 0
+03-02 09:48:55[I] communicate start cmd:0x3105, length:179
+03-02 09:48:55[D] this request is from /system/bin/keystore
+03-02 09:48:55[I] cmd [3105] start...
+03-02 09:48:55[I] cmd [3105] end...[0]
+03-02 09:48:55[I] communicate end 0 / length : 0
+03-02 09:49:07[I] communicate start cmd:0x3105, length:179
+03-02 09:49:07[D] this request is from /system/bin/keystore
+03-02 09:49:07[I] cmd [3105] start...
+03-02 09:49:07[I] cmd [3105] end...[0]
+03-02 09:49:07[I] communicate end 0 / length : 0
+03-02 09:49:30[I] communicate start cmd:0x2041, length:64
+03-02 09:49:30[D] this request is from system_server
+03-02 09:49:30[I] cmd [2041] start...
+03-02 09:49:30[I] DRK file exists. 2555
+03-02 09:49:30[I] cmd [2041] end...[0]
+03-02 09:49:30[I] communicate end 0 / length : 0
+03-02 09:50:58[I] communicate start cmd:0x3312, length:64
+03-02 09:50:58[D] this request is from system_server
+03-02 09:50:58[I] cmd [3312] start...
+03-02 09:50:58[E] SecnvmPowerOff isn't supported.
+03-02 09:50:58[I] cmd [3312] end...[-16777217]
+03-02 09:50:58[I] communicate end -16777217 / length : 0
+03-02 09:53:51[I] communicate start cmd:0x3312, length:64
+03-02 09:53:51[D] this request is from system_server
+03-02 09:53:51[I] cmd [3312] start...
+03-02 09:53:51[E] SecnvmPowerOff isn't supported.
+03-02 09:53:51[I] cmd [3312] end...[-16777217]
+03-02 09:53:51[I] communicate end -16777217 / length : 0
+03-02 09:57:15[I] communicate start cmd:0x3312, length:64
+03-02 09:57:15[D] this request is from system_server
+03-02 09:57:15[I] cmd [3312] start...
+03-02 09:57:15[E] SecnvmPowerOff isn't supported.
+03-02 09:57:15[I] cmd [3312] end...[-16777217]
+03-02 09:57:15[I] communicate end -16777217 / length : 0
+03-02 10:10:27[I] communicate start cmd:0x3312, length:64
+03-02 10:10:27[D] this request is from system_server
+03-02 10:10:27[I] cmd [3312] start...
+03-02 10:10:27[E] SecnvmPowerOff isn't supported.
+03-02 10:10:27[I] cmd [3312] end...[-16777217]
+03-02 10:10:27[I] communicate end -16777217 / length : 0
+03-02 10:17:20[I] communicate start cmd:0x3312, length:64
+03-02 10:17:20[D] this request is from system_server
+03-02 10:17:20[I] cmd [3312] start...
+03-02 10:17:20[E] SecnvmPowerOff isn't supported.
+03-02 10:17:20[I] cmd [3312] end...[-16777217]
+03-02 10:17:20[I] communicate end -16777217 / length : 0
+03-02 10:30:10[I] communicate start cmd:0x3312, length:64
+03-02 10:30:10[D] this request is from system_server
+03-02 10:30:10[I] cmd [3312] start...
+03-02 10:30:10[E] SecnvmPowerOff isn't supported.
+03-02 10:30:10[I] cmd [3312] end...[-16777217]
+03-02 10:30:10[I] communicate end -16777217 / length : 0
+03-02 10:42:48[I] communicate start cmd:0x3312, length:64
+03-02 10:42:48[D] this request is from system_server
+03-02 10:42:48[I] cmd [3312] start...
+03-02 10:42:48[E] SecnvmPowerOff isn't supported.
+03-02 10:42:48[I] cmd [3312] end...[-16777217]
+03-02 10:42:48[I] communicate end -16777217 / length : 0
+03-02 11:24:11[I] communicate start cmd:0x3312, length:64
+03-02 11:24:11[D] this request is from system_server
+03-02 11:24:11[I] cmd [3312] start...
+03-02 11:24:11[E] SecnvmPowerOff isn't supported.
+03-02 11:24:11[I] cmd [3312] end...[-16777217]
+03-02 11:24:11[I] communicate end -16777217 / length : 0
+03-02 11:32:36[I] communicate start cmd:0x3312, length:64
+03-02 11:32:36[D] this request is from system_server
+03-02 11:32:36[I] cmd [3312] start...
+03-02 11:32:36[E] SecnvmPowerOff isn't supported.
+03-02 11:32:36[I] cmd [3312] end...[-16777217]
+03-02 11:32:36[I] communicate end -16777217 / length : 0
+03-02 11:35:12[I] communicate start cmd:0x3312, length:64
+03-02 11:35:12[D] this request is from system_server
+03-02 11:35:12[I] cmd [3312] start...
+03-02 11:35:12[E] SecnvmPowerOff isn't supported.
+03-02 11:35:12[I] cmd [3312] end...[-16777217]
+03-02 11:35:12[I] communicate end -16777217 / length : 0
+03-02 11:37:36[I] communicate start cmd:0x3312, length:64
+03-02 11:37:36[D] this request is from system_server
+03-02 11:37:36[I] cmd [3312] start...
+03-02 11:37:36[E] SecnvmPowerOff isn't supported.
+03-02 11:37:36[I] cmd [3312] end...[-16777217]
+03-02 11:37:36[I] communicate end -16777217 / length : 0
+03-02 11:41:59[I] communicate start cmd:0x3312, length:64
+03-02 11:41:59[D] this request is from system_server
+03-02 11:41:59[I] cmd [3312] start...
+03-02 11:41:59[E] SecnvmPowerOff isn't supported.
+03-02 11:41:59[I] cmd [3312] end...[-16777217]
+03-02 11:41:59[I] communicate end -16777217 / length : 0
+03-02 11:43:28[I] communicate start cmd:0x3312, length:64
+03-02 11:43:28[D] this request is from system_server
+03-02 11:43:28[I] cmd [3312] start...
+03-02 11:43:28[E] SecnvmPowerOff isn't supported.
+03-02 11:43:28[I] cmd [3312] end...[-16777217]
+03-02 11:43:28[I] communicate end -16777217 / length : 0
+03-02 11:44:43[I] communicate start cmd:0x3312, length:64
+03-02 11:44:43[D] this request is from system_server
+03-02 11:44:43[I] cmd [3312] start...
+03-02 11:44:43[E] SecnvmPowerOff isn't supported.
+03-02 11:44:43[I] cmd [3312] end...[-16777217]
+03-02 11:44:43[I] communicate end -16777217 / length : 0
+03-02 11:45:50[I] communicate start cmd:0x3312, length:64
+03-02 11:45:50[D] this request is from system_server
+03-02 11:45:50[I] cmd [3312] start...
+03-02 11:45:50[E] SecnvmPowerOff isn't supported.
+03-02 11:45:50[I] cmd [3312] end...[-16777217]
+03-02 11:45:50[I] communicate end -16777217 / length : 0
+03-02 11:48:18[I] communicate start cmd:0x3312, length:64
+03-02 11:48:18[D] this request is from system_server
+03-02 11:48:18[I] cmd [3312] start...
+03-02 11:48:18[E] SecnvmPowerOff isn't supported.
+03-02 11:48:18[I] cmd [3312] end...[-16777217]
+03-02 11:48:18[I] communicate end -16777217 / length : 0
+03-02 11:48:32[I] communicate start cmd:0x3312, length:64
+03-02 11:48:32[D] this request is from system_server
+03-02 11:48:32[I] cmd [3312] start...
+03-02 11:48:32[E] SecnvmPowerOff isn't supported.
+03-02 11:48:32[I] cmd [3312] end...[-16777217]
+03-02 11:48:32[I] communicate end -16777217 / length : 0
+03-02 11:49:34[I] communicate start cmd:0x3312, length:64
+03-02 11:49:34[D] this request is from system_server
+03-02 11:49:34[I] cmd [3312] start...
+03-02 11:49:34[E] SecnvmPowerOff isn't supported.
+03-02 11:49:34[I] cmd [3312] end...[-16777217]
+03-02 11:49:34[I] communicate end -16777217 / length : 0
+03-02 11:50:45[I] communicate start cmd:0x3312, length:64
+03-02 11:50:45[D] this request is from system_server
+03-02 11:50:45[I] cmd [3312] start...
+03-02 11:50:45[E] SecnvmPowerOff isn't supported.
+03-02 11:50:45[I] cmd [3312] end...[-16777217]
+03-02 11:50:45[I] communicate end -16777217 / length : 0
+03-02 11:54:39[I] communicate start cmd:0x3312, length:64
+03-02 11:54:39[D] this request is from system_server
+03-02 11:54:39[I] cmd [3312] start...
+03-02 11:54:39[E] SecnvmPowerOff isn't supported.
+03-02 11:54:39[I] cmd [3312] end...[-16777217]
+03-02 11:54:39[I] communicate end -16777217 / length : 0
+03-02 11:55:52[I] communicate start cmd:0x3312, length:64
+03-02 11:55:52[D] this request is from system_server
+03-02 11:55:52[I] cmd [3312] start...
+03-02 11:55:52[E] SecnvmPowerOff isn't supported.
+03-02 11:55:52[I] cmd [3312] end...[-16777217]
+03-02 11:55:52[I] communicate end -16777217 / length : 0
+03-02 11:58:07[I] communicate start cmd:0x3312, length:64
+03-02 11:58:07[D] this request is from system_server
+03-02 11:58:07[I] cmd [3312] start...
+03-02 11:58:07[E] SecnvmPowerOff isn't supported.
+03-02 11:58:07[I] cmd [3312] end...[-16777217]
+03-02 11:58:07[I] communicate end -16777217 / length : 0
+03-02 11:58:07[I] communicate start cmd:0x3105, length:151
+03-02 11:58:07[D] this request is from /system/bin/keystore
+03-02 11:58:07[I] cmd [3105] start...
+03-02 11:58:07[I] cmd [3105] end...[0]
+03-02 12:29:45[I] communicate start cmd:0x3301, length:64
+03-02 12:29:45[D] this request is from system_server
+03-02 12:29:45[I] cmd [3301] start...
+03-02 12:29:45[E] GetBigdataMsg isn't supported.
+03-02 12:29:45[I] cmd [3301] end...[-16777217]
+03-02 12:29:45[I] communicate end -16777217 / length : 0
+03-02 12:29:45[I] communicate start cmd:0x3101, length:103
+03-02 12:29:45[D] this request is from system_server
+03-02 12:29:45[I] cmd [3101] start...
+03-02 12:29:45[I] cmd [3101] end...[0]
+03-02 12:29:45[I] communicate end 0 / length : 50914
+03-02 12:29:45[I] communicate start cmd:0x3101, length:108
+03-02 12:29:45[D] this request is from system_server
+03-02 12:29:45[I] cmd [3101] start...
+03-02 12:29:45[I] cmd [3101] end...[0]
+03-02 12:29:45[I] communicate end 0 / length : 307424
+03-02 12:29:45[I] communicate start cmd:0x3101, length:105
+03-02 12:29:45[D] this request is from system_server
+03-02 12:29:45[I] cmd [3101] start...
+03-02 12:29:45[E] Failed to stat (No such file or directory)
+03-02 12:29:45[E] read file error
+03-02 12:29:45[I] cmd [3101] end...[-15402]
+03-02 12:29:45[I] communicate end -15402 / length : 0
+03-02 12:29:45[I] communicate start cmd:0x3101, length:110
+03-02 12:29:45[D] this request is from system_server
+03-02 12:29:45[I] cmd [3101] start...
+03-02 12:29:45[E] Failed to stat (No such file or directory)
+03-02 12:29:45[E] read file error
+03-02 12:29:45[I] cmd [3101] end...[-15402]
+03-02 12:29:45[I] communicate end -15402 / length : 0
+03-02 12:29:52[I] communicate start cmd:0x3312, length:64
+03-02 12:29:52[D] this request is from system_server
+03-02 12:29:52[I] cmd [3312] start...
+03-02 12:29:52[E] SecnvmPowerOff isn't supported.
+03-02 12:29:52[I] cmd [3312] end...[-16777217]
+03-02 12:29:52[I] communicate end -16777217 / length : 0
+03-02 12:41:14[I] communicate start cmd:0x3312, length:64
+03-02 12:41:14[D] this request is from system_server
+03-02 12:41:14[I] cmd [3312] start...
+03-02 12:41:14[E] SecnvmPowerOff isn't supported.
+03-02 12:41:14[I] cmd [3312] end...[-16777217]
+03-02 12:41:14[I] communicate end -16777217 / length : 0
+03-02 12:42:05[I] communicate start cmd:0x3312, length:64
+03-02 12:42:05[D] this request is from system_server
+03-02 12:42:05[I] cmd [3312] start...
+03-02 12:42:05[E] SecnvmPowerOff isn't supported.
+03-02 12:42:05[I] cmd [3312] end...[-16777217]
+03-02 12:42:05[I] communicate end -16777217 / length : 0
+03-02 12:50:59[I] communicate start cmd:0x3312, length:64
+03-02 12:50:59[D] this request is from system_server
+03-02 12:50:59[I] cmd [3312] start...
+03-02 12:50:59[E] SecnvmPowerOff isn't supported.
+03-02 12:50:59[I] cmd [3312] end...[-16777217]
+03-02 12:50:59[I] communicate end -16777217 / length : 0
+03-02 13:02:35[I] communicate start cmd:0x3312, length:64
+03-02 13:02:35[D] this request is from system_server
+03-02 13:02:35[I] cmd [3312] start...
+03-02 13:02:35[E] SecnvmPowerOff isn't supported.
+03-02 13:02:35[I] cmd [3312] end...[-16777217]
+03-02 13:02:35[I] communicate end -16777217 / length : 0
+03-02 13:08:02[I] communicate start cmd:0x3312, length:64
+03-02 13:08:02[D] this request is from system_server
+03-02 13:08:02[I] cmd [3312] start...
+03-02 13:08:02[E] SecnvmPowerOff isn't supported.
+03-02 13:08:02[I] cmd [3312] end...[-16777217]
+03-02 13:08:02[I] communicate end -16777217 / length : 0
+03-02 13:14:53[I] communicate start cmd:0x3312, length:64
+03-02 13:14:53[D] this request is from system_server
+03-02 13:14:53[I] cmd [3312] start...
+03-02 13:14:53[E] SecnvmPowerOff isn't supported.
+03-02 13:14:53[I] cmd [3312] end...[-16777217]
+03-02 16:29:00[I] communicate start cmd:0x3301, length:64
+03-02 16:29:00[D] this request is from system_server
+03-02 16:29:00[I] cmd [3301] start...
+03-02 16:29:00[E] GetBigdataMsg isn't supported.
+03-02 16:29:00[I] cmd [3301] end...[-16777217]
+03-02 16:29:00[I] communicate end -16777217 / length : 0
+03-02 16:29:00[I] communicate start cmd:0x3101, length:103
+03-02 16:29:00[D] this request is from system_server
+03-02 16:29:00[I] cmd [3101] start...
+03-02 16:29:00[I] cmd [3101] end...[0]
+03-02 16:29:00[I] communicate end 0 / length : 54595
+03-02 16:29:00[I] communicate start cmd:0x3101, length:108
+03-02 16:29:00[D] this request is from system_server
+03-02 16:29:00[I] cmd [3101] start...
+03-02 16:29:00[I] cmd [3101] end...[0]
+03-02 16:29:00[I] communicate end 0 / length : 307424
+03-02 16:29:00[I] communicate start cmd:0x3101, length:105
+03-02 16:29:00[D] this request is from system_server
+03-02 16:29:00[I] cmd [3101] start...
+03-02 16:29:00[E] Failed to stat (No such file or directory)
+03-02 16:29:00[E] read file error
+03-02 16:29:00[I] cmd [3101] end...[-15402]
+03-02 16:29:01[I] communicate end -15402 / length : 0
+03-02 16:29:01[I] communicate start cmd:0x3101, length:110
+03-02 16:29:01[D] this request is from system_server
+03-02 16:29:01[I] cmd [3101] start...
+03-02 16:29:01[E] Failed to stat (No such file or directory)
+03-02 16:29:01[E] read file error
+03-02 16:29:01[I] cmd [3101] end...[-15402]
+03-02 16:29:01[I] communicate end -15402 / length : 0
+03-02 13:30:19[I] communicate start cmd:0x2041, length:64
+03-02 13:30:19[D] this request is from system_server
+03-02 13:30:19[I] cmd [2041] start...
+03-02 13:30:19[I] DRK file exists. 2555
+03-02 13:30:19[I] cmd [2041] end...[0]
+03-02 13:30:19[I] communicate end 0 / length : 0
+03-02 13:30:19[I] communicate start cmd:0x2052, length:64
+03-02 13:30:19[D] this request is from system_server
+03-02 13:30:19[I] cmd [2052] start...
+03-02 13:30:19[I] DRK file exists. 2555
+03-02 13:30:19[I] cmd [2052] end...[0]
+03-02 13:30:19[I] communicate end 0 / length : 115
+03-02 13:30:19[I] communicate start cmd:0x2031, length:148
+03-02 13:30:19[D] this request is from system_server
+03-02 13:30:19[I] cmd [2031] start...
+03-02 13:30:19[I] DRK file exists. 2555
+03-02 13:30:19[E] Carrier length is not matched.
+03-02 13:30:19[I] IMEI supported model !!!
+03-02 13:30:19[I] receiveNotifyCB end
+03-02 13:30:19[E] Carrier length is not matched.
+03-02 13:30:19[I] IMEI supported model !!!
+03-02 13:30:19[I] receiveNotifyCB end
+03-02 13:30:19[I] DRK file exists. 2555
+03-02 13:30:20[I] cmd [2031] end...[0]
+03-02 13:30:20[I] communicate end 0 / length : 3941
+03-02 13:30:20[I] communicate start cmd:0x2032, length:64
+03-02 13:30:20[D] this request is from system_server
+03-02 13:30:20[I] cmd [2032] start...
+03-02 13:30:20[I] cmd [2032] end...[0]
+03-02 13:30:20[I] communicate end 0 / length : 0
+03-02 15:27:01[I] communicate start cmd:0x2031, length:148
+03-02 15:27:01[D] this request is from system_server
+03-02 15:27:01[I] cmd [2031] start...
+03-02 15:27:01[I] DRK file exists. 2555
+03-02 15:27:01[E] Carrier length is not matched.
+03-02 15:27:01[I] IMEI supported model !!!
+03-02 15:27:01[I] receiveNotifyCB end
+03-02 15:27:01[E] Carrier length is not matched.
+03-02 15:27:01[I] IMEI supported model !!!
+03-02 15:27:01[I] receiveNotifyCB end
+03-02 15:27:01[I] DRK file exists. 2555
+03-02 15:27:02[I] cmd [2031] end...[0]
+03-02 15:27:02[I] communicate end 0 / length : 3942
+03-02 15:27:02[I] communicate start cmd:0x2032, length:64
+03-02 15:27:02[D] this request is from system_server
+03-02 15:27:02[I] cmd [2032] start...
+03-02 15:27:02[I] cmd [2032] end...[0]
+03-02 15:27:02[I] communicate end 0 / length : 0
+03-02 19:20:22[I] communicate start cmd:0x3312, length:64
+03-02 19:20:22[D] this request is from system_server
+03-02 19:20:22[I] cmd [3312] start...
+03-02 19:20:22[E] SecnvmPowerOff isn't supported.
+03-02 19:20:22[I] cmd [3312] end...[-16777217]
+03-02 19:20:22[I] communicate end -16777217 / length : 0
+03-02 19:22:45[I] communicate start cmd:0x3105, length:179
+03-02 19:22:45[D] this request is from /system/bin/keystore
+03-02 19:22:45[I] cmd [3105] start...
+03-02 19:22:45[I] cmd [3105] end...[0]
+03-02 19:22:45[I] communicate end 0 / length : 0
+03-02 19:22:49[I] communicate start cmd:0x3105, length:159
+03-02 19:22:49[D] this request is from /system/bin/keystore
+03-02 19:22:49[I] cmd [3105] start...
+03-02 19:22:49[I] cmd [3105] end...[0]
+03-02 19:22:49[I] communicate end 0 / length : 0
+03-02 19:27:02[I] communicate start cmd:0x3105, length:140
+03-02 19:27:02[D] this request is from /system/bin/keystore
+03-02 19:27:02[I] cmd [3105] start...
+03-02 19:27:02[I] cmd [3105] end...[0]
+03-02 19:27:02[I] communicate end 0 / length : 0
+03-02 19:28:51[I] communicate start cmd:0x3312, length:64
+03-02 19:28:51[D] this request is from system_server
+03-02 19:28:51[I] cmd [3312] start...
+03-02 19:28:51[E] SecnvmPowerOff isn't supported.
+03-02 19:28:51[I] cmd [3312] end...[-16777217]
+03-02 19:28:51[I] communicate end -16777217 / length : 0
+03-02 19:30:37[I] communicate start cmd:0x3105, length:151
+03-02 19:30:37[D] this request is from /system/bin/keystore
+03-02 19:30:37[I] cmd [3105] start...
+03-02 19:30:37[I] cmd [3105] end...[0]
+03-02 19:30:37[I] communicate end 0 / length : 0
+03-02 19:31:22[I] communicate start cmd:0x2041, length:64
+03-02 19:31:22[D] this request is from system_server
+03-02 19:31:22[I] cmd [2041] start...
+03-02 19:31:22[I] DRK file exists. 2555
+03-02 19:31:22[I] cmd [2041] end...[0]
+03-02 19:31:22[I] communicate end 0 / length : 0
+03-02 19:31:22[I] communicate start cmd:0x2031, length:148
+03-02 19:31:22[D] this request is from system_server
+03-02 19:31:22[I] cmd [2031] start...
+03-02 19:31:22[I] DRK file exists. 2555
+03-02 19:31:22[E] Carrier length is not matched.
+03-02 19:31:22[I] IMEI supported model !!!
+03-02 19:31:22[I] receiveNotifyCB end
+03-02 19:31:22[E] Carrier length is not matched.
+03-02 19:31:22[I] IMEI supported model !!!
+03-02 19:31:22[I] receiveNotifyCB end
+03-02 19:31:22[I] DRK file exists. 2555
+03-02 19:31:23[I] cmd [2031] end...[0]
+03-02 19:31:23[I] communicate end 0 / length : 3943
+03-02 19:31:23[I] communicate start cmd:0x2032, length:64
+03-02 19:31:23[D] this request is from system_server
+03-02 19:31:23[I] cmd [2032] start...
+03-02 19:31:23[I] cmd [2032] end...[0]
+03-02 19:31:23[I] communicate end 0 / length : 0
+03-02 19:31:53[I] communicate start cmd:0x2041, length:64
+03-02 19:31:53[D] this request is from system_server
+03-02 19:31:53[I] cmd [2041] start...
+03-02 19:31:53[I] DRK file exists. 2555
+03-02 19:31:54[I] cmd [2041] end...[0]
+03-02 19:31:54[I] communicate end 0 / length : 0
+03-02 19:31:54[I] communicate start cmd:0x2031, length:148
+03-02 19:31:54[D] this request is from system_server
+03-02 19:31:54[I] cmd [2031] start...
+03-02 19:31:54[I] DRK file exists. 2555
+03-02 19:31:54[E] Carrier length is not matched.
+03-02 19:31:54[I] IMEI supported model !!!
+03-02 19:31:54[I] receiveNotifyCB end
+03-02 19:31:54[E] Carrier length is not matched.
+03-02 19:31:54[I] IMEI supported model !!!
+03-02 19:31:54[I] receiveNotifyCB end
+03-02 19:31:54[I] DRK file exists. 2555
+03-02 19:31:56[I] cmd [2031] end...[0]
+03-02 19:31:56[I] communicate end 0 / length : 3942
+03-02 19:31:56[I] communicate start cmd:0x2032, length:64
+03-02 19:31:56[D] this request is from system_server
+03-02 19:31:56[I] cmd [2032] start...
+03-02 19:31:56[I] cmd [2032] end...[0]
+03-02 19:31:56[I] communicate end 0 / length : 0
+03-02 19:38:26[I] communicate start cmd:0x3312, length:64
+03-02 19:38:26[D] this request is from system_server
+03-02 19:38:26[I] cmd [3312] start...
+03-02 19:38:26[E] SecnvmPowerOff isn't supported.
+03-02 19:38:26[I] cmd [3312] end...[-16777217]
+03-02 19:38:26[I] communicate end -16777217 / length : 0
+03-02 19:42:48[I] communicate start cmd:0x3105, length:140
+03-02 19:42:48[D] this request is from /system/bin/keystore
+03-02 19:42:48[I] cmd [3105] start...
+03-02 19:42:48[I] cmd [3105] end...[0]
+03-02 19:42:48[I] communicate end 0 / length : 0
+03-02 19:54:31[I] communicate start cmd:0x3312, length:64
+03-02 19:54:31[D] this request is from system_server
+03-02 19:54:31[I] cmd [3312] start...
+03-02 19:54:31[E] SecnvmPowerOff isn't supported.
+03-02 19:54:31[I] cmd [3312] end...[-16777217]
+03-02 19:54:31[I] communicate end -16777217 / length : 0
+03-02 19:54:51[I] communicate start cmd:0x3312, length:64
+03-02 19:54:51[D] this request is from system_server
+03-02 19:54:51[I] cmd [3312] start...
+03-02 19:54:51[E] SecnvmPowerOff isn't supported.
+03-02 19:54:51[I] cmd [3312] end...[-16777217]
+03-02 19:54:51[I] communicate end -16777217 / length : 0
+03-02 19:56:56[I] communicate start cmd:0x3312, length:64
+03-02 19:56:56[D] this request is from system_server
+03-02 19:56:56[I] cmd [3312] start...
+03-02 19:56:56[E] SecnvmPowerOff isn't supported.
+03-02 19:56:56[I] cmd [3312] end...[-16777217]
+03-02 19:56:56[I] communicate end -16777217 / length : 0
+03-02 19:58:52[I] communicate start cmd:0x3312, length:64
+03-02 19:58:52[D] this request is from system_server
+03-02 19:58:52[I] cmd [3312] start...
+03-02 19:58:52[E] SecnvmPowerOff isn't supported.
+03-02 19:58:52[I] cmd [3312] end...[-16777217]
+03-02 19:58:52[I] communicate end -16777217 / length : 0
+03-02 20:08:30[I] communicate start cmd:0x3312, length:64
+03-02 20:08:30[D] this request is from system_server
+03-02 20:08:30[I] cmd [3312] start...
+03-02 20:08:30[E] SecnvmPowerOff isn't supported.
+03-02 20:08:30[I] cmd [3312] end...[-16777217]
+03-02 20:08:30[I] communicate end -16777217 / length : 0
+03-02 20:27:43[I] communicate start cmd:0x3312, length:64
+03-02 20:27:43[D] this request is from system_server
+03-02 20:27:43[I] cmd [3312] start...
+03-02 20:27:43[E] SecnvmPowerOff isn't supported.
+03-02 20:27:43[I] cmd [3312] end...[-16777217]
+03-02 20:27:43[I] communicate end -16777217 / length : 0
+03-02 20:57:57[I] communicate start cmd:0x3105, length:140
+03-02 20:57:57[D] this request is from /system/bin/keystore
+03-02 20:57:57[I] cmd [3105] start...
+03-02 20:57:57[I] cmd [3105] end...[0]
+03-02 20:57:57[I] communicate end 0 / length : 0
+03-02 21:02:30[I] communicate start cmd:0x3312, length:64
+03-02 21:02:30[D] this request is from system_server
+03-02 21:02:30[I] cmd [3312] start...
+03-02 21:02:30[E] SecnvmPowerOff isn't supported.
+03-02 21:02:30[I] cmd [3312] end...[-16777217]
+03-02 21:02:30[I] communicate end -16777217 / length : 0
+03-02 22:05:06[I] communicate start cmd:0x3312, length:64
+03-02 22:05:06[D] this request is from system_server
+03-02 22:05:06[I] cmd [3312] start...
+03-02 22:05:06[E] SecnvmPowerOff isn't supported.
+03-02 22:05:06[I] cmd [3312] end...[-16777217]
+03-02 22:19:37[I] communicate start cmd:0x3301, length:64
+03-02 22:19:37[D] this request is from system_server
+03-02 22:19:37[I] cmd [3301] start...
+03-02 22:19:37[E] GetBigdataMsg isn't supported.
+03-02 22:19:37[I] cmd [3301] end...[-16777217]
+03-02 22:19:37[I] communicate end -16777217 / length : 0
+03-02 22:19:37[I] communicate start cmd:0x3101, length:103
+03-02 22:19:37[D] this request is from system_server
+03-02 22:19:37[I] cmd [3101] start...
+03-02 22:19:37[I] cmd [3101] end...[0]
+03-02 22:19:37[I] communicate end 0 / length : 65604
+03-02 22:19:37[I] communicate start cmd:0x3101, length:108
+03-02 22:19:37[D] this request is from system_server
+03-02 22:19:37[I] cmd [3101] start...
+03-02 22:19:37[I] cmd [3101] end...[0]
+03-02 22:19:37[I] communicate end 0 / length : 307424
+03-02 22:19:37[I] communicate start cmd:0x3101, length:105
+03-02 22:19:37[D] this request is from system_server
+03-02 22:19:37[I] cmd [3101] start...
+03-02 22:19:37[E] Failed to stat (No such file or directory)
+03-02 22:19:37[E] read file error
+03-02 22:19:37[I] cmd [3101] end...[-15402]
+03-02 22:19:37[I] communicate end -15402 / length : 0
+03-02 22:19:37[I] communicate start cmd:0x3101, length:110
+03-02 22:19:37[D] this request is from system_server
+03-02 22:19:37[I] cmd [3101] start...
+03-02 22:19:37[E] Failed to stat (No such file or directory)
+03-02 22:19:37[E] read file error
+03-02 22:19:37[I] cmd [3101] end...[-15402]
+03-02 22:24:20[I] communicate start cmd:0x3301, length:64
+03-02 22:24:20[D] this request is from system_server
+03-02 22:24:20[I] cmd [3301] start...
+03-02 22:24:20[E] GetBigdataMsg isn't supported.
+03-02 22:24:20[I] cmd [3301] end...[-16777217]
+03-02 22:24:20[I] communicate end -16777217 / length : 0
+03-02 22:24:20[I] communicate start cmd:0x3101, length:103
+03-02 22:24:20[D] this request is from system_server
+03-02 22:24:20[I] cmd [3101] start...
+03-02 22:24:20[I] cmd [3101] end...[0]
+03-02 22:24:20[I] communicate end 0 / length : 67083
+03-02 22:24:20[I] communicate start cmd:0x3101, length:108
+03-02 22:24:20[D] this request is from system_server
+03-02 22:24:20[I] cmd [3101] start...
+03-02 22:24:20[I] cmd [3101] end...[0]
+03-02 22:24:20[I] communicate end 0 / length : 307424
+03-02 22:24:20[I] communicate start cmd:0x3101, length:105
+03-02 22:24:20[D] this request is from system_server
+03-02 22:24:20[I] cmd [3101] start...
+03-02 22:24:20[E] Failed to stat (No such file or directory)
+03-02 22:24:20[E] read file error
+03-02 22:24:20[I] cmd [3101] end...[-15402]
+03-02 22:24:20[I] communicate end -15402 / length : 0
+03-02 22:24:20[I] communicate start cmd:0x3101, length:110
+03-02 22:24:20[D] this request is from system_server
+03-02 22:24:20[I] cmd [3101] start...
+03-02 22:24:20[E] Failed to stat (No such file or directory)
+03-02 22:24:20[E] read file error
+03-02 22:24:20[I] cmd [3101] end...[-15402]
+03-02 22:24:20[I] communicate end -15402 / length : 0
+03-03 00:03:19[I] communicate start cmd:0x3312, length:64
+03-03 00:03:19[D] this request is from system_server
+03-03 00:03:19[I] cmd [3312] start...
+03-03 00:03:19[E] SecnvmPowerOff isn't supported.
+03-03 00:03:19[I] cmd [3312] end...[-16777217]
+03-03 00:03:19[I] communicate end -16777217 / length : 0
+03-03 00:07:38[I] communicate start cmd:0x3312, length:64
+03-03 00:07:38[D] this request is from system_server
+03-03 00:07:38[I] cmd [3312] start...
+03-03 00:07:38[E] SecnvmPowerOff isn't supported.
+03-03 00:07:38[I] cmd [3312] end...[-16777217]
+03-03 00:07:38[I] communicate end -16777217 / length : 0
+03-03 00:11:18[I] communicate start cmd:0x3312, length:64
+03-03 00:11:18[D] this request is from system_server
+03-03 00:11:18[I] cmd [3312] start...
+03-03 00:11:18[E] SecnvmPowerOff isn't supported.
+03-03 00:11:18[I] cmd [3312] end...[-16777217]
+03-03 00:11:18[I] communicate end -16777217 / length : 0
+03-03 00:22:25[I] communicate start cmd:0x3312, length:64
+03-03 00:22:25[D] this request is from system_server
+03-03 00:22:25[I] cmd [3312] start...
+03-03 00:22:25[E] SecnvmPowerOff isn't supported.
+03-03 00:22:25[I] cmd [3312] end...[-16777217]
+03-03 00:22:25[I] communicate end -16777217 / length : 0
+03-03 00:24:50[I] communicate start cmd:0x3312, length:64
+03-03 00:24:50[D] this request is from system_server
+03-03 00:24:50[I] cmd [3312] start...
+03-03 00:24:50[E] SecnvmPowerOff isn't supported.
+03-03 00:24:50[I] cmd [3312] end...[-16777217]
+03-03 00:24:50[I] communicate end -16777217 / length : 0
+03-03 00:26:36[I] communicate start cmd:0x3312, length:64
+03-03 00:26:36[D] this request is from system_server
+03-03 00:26:36[I] cmd [3312] start...
+03-03 00:26:36[E] SecnvmPowerOff isn't supported.
+03-03 00:26:36[I] cmd [3312] end...[-16777217]
+03-03 00:26:36[I] communicate end -16777217 / length : 0
+03-03 00:27:43[I] communicate start cmd:0x3312, length:64
+03-03 00:27:43[D] this request is from system_server
+03-03 00:27:43[I] cmd [3312] start...
+03-03 00:27:43[E] SecnvmPowerOff isn't supported.
+03-03 00:27:43[I] cmd [3312] end...[-16777217]
+03-03 00:27:43[I] communicate end -16777217 / length : 0
+03-03 02:16:25[I] communicate start cmd:0x3312, length:64
+03-03 02:16:25[D] this request is from system_server
+03-03 02:16:25[I] cmd [3312] start...
+03-03 02:16:25[E] SecnvmPowerOff isn't supported.
+03-03 02:16:25[I] cmd [3312] end...[-16777217]
+03-03 02:16:25[I] communicate end -16777217 / length : 0
+03-03 02:34:53[I] communicate start cmd:0x3312, length:64
+03-03 02:34:53[D] this request is from system_server
+03-03 02:34:53[I] cmd [3312] start...
+03-03 02:34:53[E] SecnvmPowerOff isn't supported.
+03-03 02:34:53[I] cmd [3312] end...[-16777217]
+03-03 02:34:53[I] communicate end -16777217 / length : 0
+03-03 05:28:35[I] communicate start cmd:0x3312, length:64
+03-03 05:28:35[D] this request is from system_server
+03-03 05:28:35[I] cmd [3312] start...
+03-03 05:28:35[E] SecnvmPowerOff isn't supported.
+03-03 05:28:35[I] cmd [3312] end...[-16777217]
+03-03 05:28:35[I] communicate end -16777217 / length : 0
+03-03 05:44:09[I] communicate start cmd:0x3312, length:64
+03-03 05:44:09[D] this request is from system_server
+03-03 05:44:09[I] cmd [3312] start...
+03-03 05:44:09[E] SecnvmPowerOff isn't supported.
+03-03 05:44:09[I] cmd [3312] end...[-16777217]
+03-03 05:44:09[I] communicate end -16777217 / length : 0
+03-03 05:47:12[I] communicate start cmd:0x3312, length:64
+03-03 05:47:12[D] this request is from system_server
+03-03 05:47:12[I] cmd [3312] start...
+03-03 05:47:12[E] SecnvmPowerOff isn't supported.
+03-03 05:47:12[I] cmd [3312] end...[-16777217]
+03-03 05:47:12[I] communicate end -16777217 / length : 0
+03-03 05:48:20[I] communicate start cmd:0x3312, length:64
+03-03 05:48:20[D] this request is from system_server
+03-03 05:48:20[I] cmd [3312] start...
+03-03 05:48:20[E] SecnvmPowerOff isn't supported.
+03-03 05:48:20[I] cmd [3312] end...[-16777217]
+03-03 05:48:20[I] communicate end -16777217 / length : 0
+03-03 05:48:26[I] communicate start cmd:0x3312, length:64
+03-03 05:48:26[D] this request is from system_server
+03-03 05:48:26[I] cmd [3312] start...
+03-03 05:48:26[E] SecnvmPowerOff isn't supported.
+03-03 05:48:26[I] cmd [3312] end...[-16777217]
+03-03 05:48:26[I] communicate end -16777217 / length : 0
+03-03 05:48:30[I] communicate start cmd:0x3312, length:64
+03-03 05:48:30[D] this request is from system_server
+03-03 05:48:30[I] cmd [3312] start...
+03-03 05:48:30[E] SecnvmPowerOff isn't supported.
+03-03 05:48:30[I] cmd [3312] end...[-16777217]
+03-03 05:48:30[I] communicate end -16777217 / length : 0
+03-03 05:58:02[I] communicate start cmd:0x3312, length:64
+03-03 05:58:02[D] this request is from system_server
+03-03 05:58:02[I] cmd [3312] start...
+03-03 05:58:02[E] SecnvmPowerOff isn't supported.
+03-03 05:58:02[I] cmd [3312] end...[-16777217]
+03-03 05:58:02[I] communicate end -16777217 / length : 0
+03-03 06:03:34[I] communicate start cmd:0x3312, length:64
+03-03 06:03:34[D] this request is from system_server
+03-03 06:03:34[I] cmd [3312] start...
+03-03 06:03:34[E] SecnvmPowerOff isn't supported.
+03-03 06:03:34[I] cmd [3312] end...[-16777217]
+03-03 06:03:34[I] communicate end -16777217 / length : 0
+03-03 06:11:56[I] communicate start cmd:0x3312, length:64
+03-03 06:11:56[D] this request is from system_server
+03-03 06:11:56[I] cmd [3312] start...
+03-03 06:11:56[E] SecnvmPowerOff isn't supported.
+03-03 06:11:56[I] cmd [3312] end...[-16777217]
+03-03 06:11:56[I] communicate end -16777217 / length : 0
+03-03 06:27:08[I] communicate start cmd:0x3312, length:64
+03-03 06:27:08[D] this request is from system_server
+03-03 06:27:08[I] cmd [3312] start...
+03-03 06:27:08[E] SecnvmPowerOff isn't supported.
+03-03 06:27:08[I] cmd [3312] end...[-16777217]
+03-03 06:27:08[I] communicate end -16777217 / length : 0
+03-03 06:42:50[I] communicate start cmd:0x3105, length:140
+03-03 06:42:50[D] this request is from /system/bin/keystore
+03-03 06:42:50[I] cmd [3105] start...
+03-03 06:42:50[I] cmd [3105] end...[0]
+03-03 09:45:34[I] communicate start cmd:0x3301, length:64
+03-03 09:45:34[D] this request is from system_server
+03-03 09:45:34[I] cmd [3301] start...
+03-03 09:45:34[E] GetBigdataMsg isn't supported.
+03-03 09:45:34[I] cmd [3301] end...[-16777217]
+03-03 09:45:34[I] communicate end -16777217 / length : 0
+03-03 09:45:34[I] communicate start cmd:0x3101, length:103
+03-03 09:45:34[D] this request is from system_server
+03-03 09:45:34[I] cmd [3101] start...
+03-03 09:45:34[I] cmd [3101] end...[0]
+03-03 09:45:34[I] communicate end 0 / length : 74809
+03-03 09:45:34[I] communicate start cmd:0x3101, length:108
+03-03 09:45:34[D] this request is from system_server
+03-03 09:45:34[I] cmd [3101] start...
+03-03 09:45:34[I] cmd [3101] end...[0]
+03-03 09:45:34[I] communicate end 0 / length : 307424
+03-03 09:45:34[I] communicate start cmd:0x3101, length:105
+03-03 09:45:34[D] this request is from system_server
+03-03 09:45:34[I] cmd [3101] start...
+03-03 09:45:34[E] Failed to stat (No such file or directory)
+03-03 09:45:34[E] read file error
+03-03 09:45:34[I] cmd [3101] end...[-15402]
+03-03 09:45:34[I] communicate end -15402 / length : 0
+03-03 09:45:34[I] communicate start cmd:0x3101, length:110
+03-03 09:45:34[D] this request is from system_server
+03-03 09:45:34[I] cmd [3101] start...
+03-03 09:45:34[E] Failed to stat (No such file or directory)
+03-03 09:45:34[E] read file error
+03-03 09:45:34[I] cmd [3101] end...[-15402]
+03-03 09:45:34[I] communicate end -15402 / length : 0
+03-03 06:46:49[I] communicate start cmd:0x2041, length:64
+03-03 06:46:49[D] this request is from system_server
+03-03 06:46:49[I] cmd [2041] start...
+03-03 06:46:49[I] DRK file exists. 2555
+03-03 06:46:49[I] cmd [2041] end...[0]
+03-03 06:46:49[I] communicate end 0 / length : 0
+03-03 06:46:49[I] communicate start cmd:0x2052, length:64
+03-03 06:46:49[D] this request is from system_server
+03-03 06:46:49[I] cmd [2052] start...
+03-03 06:46:49[I] DRK file exists. 2555
+03-03 06:46:49[I] cmd [2052] end...[0]
+03-03 06:46:49[I] communicate end 0 / length : 115
+03-03 06:46:49[I] communicate start cmd:0x2031, length:148
+03-03 06:46:49[D] this request is from system_server
+03-03 06:46:49[I] cmd [2031] start...
+03-03 06:46:49[I] DRK file exists. 2555
+03-03 06:46:49[E] Carrier length is not matched.
+03-03 06:46:49[I] IMEI supported model !!!
+03-03 06:46:49[I] receiveNotifyCB end
+03-03 06:46:49[E] Carrier length is not matched.
+03-03 06:46:49[I] IMEI supported model !!!
+03-03 06:46:49[I] receiveNotifyCB end
+03-03 06:46:49[I] DRK file exists. 2555
+03-03 06:46:51[I] cmd [2031] end...[0]
+03-03 06:46:51[I] communicate end 0 / length : 3941
+03-03 06:46:51[I] communicate start cmd:0x2032, length:64
+03-03 06:46:51[D] this request is from system_server
+03-03 06:46:51[I] cmd [2032] start...
+03-03 06:46:51[I] cmd [2032] end...[0]
+03-03 06:46:51[I] communicate end 0 / length : 0
+03-03 07:16:00[I] communicate start cmd:0x2031, length:148
+03-03 07:16:00[D] this request is from system_server
+03-03 07:16:00[I] cmd [2031] start...
+03-03 07:16:00[I] DRK file exists. 2555
+03-03 07:16:00[E] Carrier length is not matched.
+03-03 07:16:00[I] IMEI supported model !!!
+03-03 07:16:00[I] receiveNotifyCB end
+03-03 07:16:00[E] Carrier length is not matched.
+03-03 07:16:00[I] IMEI supported model !!!
+03-03 07:16:00[I] receiveNotifyCB end
+03-03 07:16:00[I] DRK file exists. 2555
+03-03 07:16:02[I] cmd [2031] end...[0]
+03-03 07:16:02[I] communicate end 0 / length : 3940
+03-03 07:16:02[I] communicate start cmd:0x2032, length:64
+03-03 07:16:02[D] this request is from system_server
+03-03 07:16:02[I] cmd [2032] start...
+03-03 07:16:02[I] cmd [2032] end...[0]
+03-03 07:16:02[I] communicate end 0 / length : 0
+03-03 07:19:03[I] communicate start cmd:0x3105, length:140
+03-03 07:19:03[D] this request is from /system/bin/keystore
+03-03 07:19:03[I] cmd [3105] start...
+03-03 07:19:03[I] cmd [3105] end...[0]
+03-03 07:19:03[I] communicate end 0 / length : 0
+03-03 07:20:44[I] communicate start cmd:0x3105, length:179
+03-03 07:20:44[D] this request is from /system/bin/keystore
+03-03 07:20:44[I] cmd [3105] start...
+03-03 07:20:44[I] cmd [3105] end...[0]
+03-03 07:20:44[I] communicate end 0 / length : 0
+03-03 07:20:51[I] communicate start cmd:0x3105, length:159
+03-03 07:20:51[D] this request is from /system/bin/keystore
+03-03 07:20:51[I] cmd [3105] start...
+03-03 07:20:51[I] cmd [3105] end...[0]
+03-03 07:20:51[I] communicate end 0 / length : 0
+03-03 08:10:04[I] communicate start cmd:0x3312, length:64
+03-03 08:10:04[D] this request is from system_server
+03-03 08:10:04[I] cmd [3312] start...
+03-03 08:10:04[E] SecnvmPowerOff isn't supported.
+03-03 08:10:04[I] cmd [3312] end...[-16777217]
+03-03 08:10:04[I] communicate end -16777217 / length : 0
+03-03 08:13:29[I] communicate start cmd:0x3312, length:64
+03-03 08:13:29[D] this request is from system_server
+03-03 08:13:29[I] cmd [3312] start...
+03-03 08:13:29[E] SecnvmPowerOff isn't supported.
+03-03 08:13:29[I] cmd [3312] end...[-16777217]
+03-03 08:13:29[I] communicate end -16777217 / length : 0
+03-03 13:57:46[I] communicate start cmd:0x3312, length:64
+03-03 13:57:46[D] this request is from system_server
+03-03 13:57:46[I] cmd [3312] start...
+03-03 13:57:46[E] SecnvmPowerOff isn't supported.
+03-03 13:57:46[I] cmd [3312] end...[-16777217]
+03-03 13:57:46[I] communicate end -16777217 / length : 0
+03-03 14:03:11[I] communicate start cmd:0x3312, length:64
+03-03 14:03:11[D] this request is from system_server
+03-03 14:03:11[I] cmd [3312] start...
+03-03 14:03:11[E] SecnvmPowerOff isn't supported.
+03-03 14:03:11[I] cmd [3312] end...[-16777217]
+03-03 14:03:11[I] communicate end -16777217 / length : 0
+03-03 14:04:01[I] communicate start cmd:0x3312, length:64
+03-03 14:04:01[D] this request is from system_server
+03-03 14:04:01[I] cmd [3312] start...
+03-03 14:04:01[E] SecnvmPowerOff isn't supported.
+03-03 14:04:01[I] cmd [3312] end...[-16777217]
+03-03 14:04:01[I] communicate end -16777217 / length : 0
+03-03 14:09:24[I] communicate start cmd:0x3312, length:64
+03-03 14:09:24[D] this request is from system_server
+03-03 14:09:24[I] cmd [3312] start...
+03-03 14:09:24[E] SecnvmPowerOff isn't supported.
+03-03 14:09:24[I] cmd [3312] end...[-16777217]
+03-03 14:09:24[I] communicate end -16777217 / length : 0
+03-03 14:29:18[I] communicate start cmd:0x3312, length:64
+03-03 14:29:18[D] this request is from system_server
+03-03 14:29:18[I] cmd [3312] start...
+03-03 14:29:18[E] SecnvmPowerOff isn't supported.
+03-03 14:29:18[I] cmd [3312] end...[-16777217]
+03-03 14:29:18[I] communicate end -16777217 / length : 0
+03-03 15:25:21[I] communicate start cmd:0x3312, length:64
+03-03 15:25:21[D] this request is from system_server
+03-03 15:25:21[I] cmd [3312] start...
+03-03 15:25:21[E] SecnvmPowerOff isn't supported.
+03-03 15:25:21[I] cmd [3312] end...[-16777217]
+03-03 15:25:21[I] communicate end -16777217 / length : 0
+03-03 15:50:35[I] communicate start cmd:0x3312, length:64
+03-03 15:50:35[D] this request is from system_server
+03-03 15:50:35[I] cmd [3312] start...
+03-03 15:50:35[E] SecnvmPowerOff isn't supported.
+03-03 15:50:35[I] cmd [3312] end...[-16777217]
+03-03 15:50:35[I] communicate end -16777217 / length : 0
+03-03 15:56:38[I] communicate start cmd:0x3312, length:64
+03-03 15:56:38[D] this request is from system_server
+03-03 15:56:38[I] cmd [3312] start...
+03-03 15:56:38[E] SecnvmPowerOff isn't supported.
+03-03 15:56:38[I] cmd [3312] end...[-16777217]
+03-03 15:56:38[I] communicate end -16777217 / length : 0
+03-03 16:02:45[I] communicate start cmd:0x3312, length:64
+03-03 16:02:45[D] this request is from system_server
+03-03 16:02:45[I] cmd [3312] start...
+03-03 16:02:45[E] SecnvmPowerOff isn't supported.
+03-03 16:02:45[I] cmd [3312] end...[-16777217]
+03-03 16:02:45[I] communicate end -16777217 / length : 0
+03-03 16:03:48[I] communicate start cmd:0x3312, length:64
+03-03 16:03:48[D] this request is from system_server
+03-03 16:03:48[I] cmd [3312] start...
+03-03 16:03:48[E] SecnvmPowerOff isn't supported.
+03-03 16:03:48[I] cmd [3312] end...[-16777217]
+03-03 16:03:48[I] communicate end -16777217 / length : 0
+03-03 16:46:34[I] communicate start cmd:0x3312, length:64
+03-03 16:46:34[D] this request is from system_server
+03-03 16:46:34[I] cmd [3312] start...
+03-03 16:46:34[E] SecnvmPowerOff isn't supported.
+03-03 16:46:34[I] cmd [3312] end...[-16777217]
+03-03 16:46:34[I] communicate end -16777217 / length : 0
+03-03 16:52:50[I] communicate start cmd:0x3312, length:64
+03-03 16:52:50[D] this request is from system_server
+03-03 16:52:50[I] cmd [3312] start...
+03-03 16:52:50[E] SecnvmPowerOff isn't supported.
+03-03 16:52:50[I] cmd [3312] end...[-16777217]
+03-03 16:52:50[I] communicate end -16777217 / length : 0
+03-03 16:55:30[I] communicate start cmd:0x3312, length:64
+03-03 16:55:30[D] this request is from system_server
+03-03 16:55:30[I] cmd [3312] start...
+03-03 16:55:30[E] SecnvmPowerOff isn't supported.
+03-03 16:55:30[I] cmd [3312] end...[-16777217]
+03-03 16:55:30[I] communicate end -16777217 / length : 0
+03-03 17:04:22[I] communicate start cmd:0x3312, length:64
+03-03 17:04:22[D] this request is from system_server
+03-03 17:04:22[I] cmd [3312] start...
+03-03 17:04:22[E] SecnvmPowerOff isn't supported.
+03-03 17:04:22[I] cmd [3312] end...[-16777217]
+03-03 17:04:22[I] communicate end -16777217 / length : 0
+03-03 17:21:00[I] communicate start cmd:0x3312, length:64
+03-03 17:21:00[D] this request is from system_server
+03-03 17:21:00[I] cmd [3312] start...
+03-03 17:21:00[E] SecnvmPowerOff isn't supported.
+03-03 17:21:00[I] cmd [3312] end...[-16777217]
+03-03 17:21:00[I] communicate end -16777217 / length : 0
+03-03 17:23:00[I] communicate start cmd:0x3312, length:64
+03-03 17:23:00[D] this request is from system_server
+03-03 17:23:00[I] cmd [3312] start...
+03-03 17:23:00[E] SecnvmPowerOff isn't supported.
+03-03 17:23:00[I] cmd [3312] end...[-16777217]
+03-03 17:23:00[I] communicate end -16777217 / length : 0
+03-03 17:28:06[I] communicate start cmd:0x3312, length:64
+03-03 17:28:06[D] this request is from system_server
+03-03 17:28:06[I] cmd [3312] start...
+03-03 17:28:06[E] SecnvmPowerOff isn't supported.
+03-03 17:28:06[I] cmd [3312] end...[-16777217]
+03-03 17:28:06[I] communicate end -16777217 / length : 0
+03-03 17:50:18[I] communicate start cmd:0x3312, length:64
+03-03 17:50:18[D] this request is from system_server
+03-03 17:50:18[I] cmd [3312] start...
+03-03 17:50:18[E] SecnvmPowerOff isn't supported.
+03-03 17:50:18[I] cmd [3312] end...[-16777217]
+03-03 17:50:18[I] communicate end -16777217 / length : 0
+03-03 17:51:02[I] communicate start cmd:0x3312, length:64
+03-03 17:51:02[D] this request is from system_server
+03-03 17:51:02[I] cmd [3312] start...
+03-03 17:51:02[E] SecnvmPowerOff isn't supported.
+03-03 17:51:02[I] cmd [3312] end...[-16777217]
+03-03 17:51:02[I] communicate end -16777217 / length : 0
+03-03 18:22:27[I] communicate start cmd:0x3312, length:64
+03-03 18:22:27[D] this request is from system_server
+03-03 18:22:27[I] cmd [3312] start...
+03-03 18:22:27[E] SecnvmPowerOff isn't supported.
+03-03 18:22:27[I] cmd [3312] end...[-16777217]
+03-03 18:22:27[I] communicate end -16777217 / length : 0
+03-03 18:40:03[I] communicate start cmd:0x3312, length:64
+03-03 18:40:03[D] this request is from system_server
+03-03 18:40:03[I] cmd [3312] start...
+03-03 18:40:03[E] SecnvmPowerOff isn't supported.
+03-03 18:40:03[I] cmd [3312] end...[-16777217]
+03-03 18:40:03[I] communicate end -16777217 / length : 0
+03-03 18:40:10[I] communicate start cmd:0x3312, length:64
+03-03 18:40:10[D] this request is from system_server
+03-03 18:40:10[I] cmd [3312] start...
+03-03 18:40:10[E] SecnvmPowerOff isn't supported.
+03-03 18:40:10[I] cmd [3312] end...[-16777217]
+03-03 18:40:10[I] communicate end -16777217 / length : 0
+03-03 18:46:03[I] communicate start cmd:0x3312, length:64
+03-03 18:46:03[D] this request is from system_server
+03-03 18:46:03[I] cmd [3312] start...
+03-03 18:46:03[E] SecnvmPowerOff isn't supported.
+03-03 18:46:03[I] cmd [3312] end...[-16777217]
+03-03 18:46:03[I] communicate end -16777217 / length : 0
+03-03 18:51:04[I] communicate start cmd:0x3312, length:64
+03-03 18:51:04[D] this request is from system_server
+03-03 18:51:04[I] cmd [3312] start...
+03-03 18:51:04[E] SecnvmPowerOff isn't supported.
+03-03 18:51:04[I] cmd [3312] end...[-16777217]
+03-03 18:51:04[I] communicate end -16777217 / length : 0
+03-03 18:53:07[I] communicate start cmd:0x3312, length:64
+03-03 18:53:07[D] this request is from system_server
+03-03 18:53:07[I] cmd [3312] start...
+03-03 18:53:07[E] SecnvmPowerOff isn't supported.
+03-03 18:53:07[I] cmd [3312] end...[-16777217]
+03-03 18:53:07[I] communicate end -16777217 / length : 0
+03-03 19:52:16[I] communicate start cmd:0x3312, length:64
+03-03 19:52:16[D] this request is from system_server
+03-03 19:52:16[I] cmd [3312] start...
+03-03 19:52:16[E] SecnvmPowerOff isn't supported.
+03-03 19:52:16[I] cmd [3312] end...[-16777217]
+03-03 19:52:16[I] communicate end -16777217 / length : 0
+03-03 19:57:05[I] communicate start cmd:0x3312, length:64
+03-03 19:57:05[D] this request is from system_server
+03-03 19:57:05[I] cmd [3312] start...
+03-03 19:57:05[E] SecnvmPowerOff isn't supported.
+03-03 19:57:05[I] cmd [3312] end...[-16777217]
+03-03 19:57:05[I] communicate end -16777217 / length : 0
+03-03 19:57:20[I] communicate start cmd:0x3312, length:64
+03-03 19:57:20[D] this request is from system_server
+03-03 19:57:20[I] cmd [3312] start...
+03-03 19:57:20[E] SecnvmPowerOff isn't supported.
+03-03 19:57:20[I] cmd [3312] end...[-16777217]
+03-03 19:57:20[I] communicate end -16777217 / length : 0
+03-03 20:10:38[I] communicate start cmd:0x3312, length:64
+03-03 20:10:38[D] this request is from system_server
+03-03 20:10:38[I] cmd [3312] start...
+03-03 20:10:38[E] SecnvmPowerOff isn't supported.
+03-03 20:10:38[I] cmd [3312] end...[-16777217]
+03-03 20:10:38[I] communicate end -16777217 / length : 0
+03-03 21:03:39[I] communicate start cmd:0x3312, length:64
+03-03 21:03:39[D] this request is from system_server
+03-03 21:03:39[I] cmd [3312] start...
+03-03 21:03:39[E] SecnvmPowerOff isn't supported.
+03-03 21:03:39[I] cmd [3312] end...[-16777217]
+03-03 21:03:39[I] communicate end -16777217 / length : 0
+03-03 21:13:10[I] communicate start cmd:0x3312, length:64
+03-03 21:13:10[D] this request is from system_server
+03-03 21:13:10[I] cmd [3312] start...
+03-03 21:13:10[E] SecnvmPowerOff isn't supported.
+03-03 21:13:10[I] cmd [3312] end...[-16777217]
+03-03 21:13:10[I] communicate end -16777217 / length : 0
+03-03 21:14:57[I] communicate start cmd:0x3312, length:64
+03-03 21:14:57[D] this request is from system_server
+03-03 21:14:57[I] cmd [3312] start...
+03-03 21:14:57[E] SecnvmPowerOff isn't supported.
+03-03 21:14:57[I] cmd [3312] end...[-16777217]
+03-03 21:14:57[I] communicate end -16777217 / length : 0
+03-03 21:53:23[I] communicate start cmd:0x3312, length:64
+03-03 21:53:23[D] this request is from system_server
+03-03 21:53:23[I] cmd [3312] start...
+03-03 21:53:23[E] SecnvmPowerOff isn't supported.
+03-03 21:53:23[I] cmd [3312] end...[-16777217]
+03-03 21:53:23[I] communicate end -16777217 / length : 0
+03-03 21:55:14[I] communicate start cmd:0x3312, length:64
+03-03 21:55:14[D] this request is from system_server
+03-03 21:55:14[I] cmd [3312] start...
+03-03 21:55:14[E] SecnvmPowerOff isn't supported.
+03-03 21:55:14[I] cmd [3312] end...[-16777217]
+03-03 21:55:14[I] communicate end -16777217 / length : 0
+03-03 21:59:14[I] communicate start cmd:0x3312, length:64
+03-03 21:59:14[D] this request is from system_server
+03-03 21:59:14[I] cmd [3312] start...
+03-03 21:59:14[E] SecnvmPowerOff isn't supported.
+03-03 21:59:14[I] cmd [3312] end...[-16777217]
+03-03 21:59:14[I] communicate end -16777217 / length : 0
+03-03 22:02:04[I] communicate start cmd:0x3312, length:64
+03-03 22:02:04[D] this request is from system_server
+03-03 22:02:04[I] cmd [3312] start...
+03-03 22:02:04[E] SecnvmPowerOff isn't supported.
+03-03 22:02:04[I] cmd [3312] end...[-16777217]
+03-03 22:02:04[I] communicate end -16777217 / length : 0
+03-03 22:13:43[I] communicate start cmd:0x3312, length:64
+03-03 22:13:43[D] this request is from system_server
+03-03 22:13:43[I] cmd [3312] start...
+03-03 22:13:43[E] SecnvmPowerOff isn't supported.
+03-03 22:13:43[I] cmd [3312] end...[-16777217]
+03-03 22:13:43[I] communicate end -16777217 / length : 0
+03-03 22:22:51[I] communicate start cmd:0x3312, length:64
+03-03 22:22:51[D] this request is from system_server
+03-03 22:22:51[I] cmd [3312] start...
+03-03 22:22:51[E] SecnvmPowerOff isn't supported.
+03-03 22:22:51[I] cmd [3312] end...[-16777217]
+03-03 22:22:51[I] communicate end -16777217 / length : 0
+03-03 22:25:18[I] communicate start cmd:0x3312, length:64
+03-03 22:25:18[D] this request is from system_server
+03-03 22:25:18[I] cmd [3312] start...
+03-03 22:25:18[E] SecnvmPowerOff isn't supported.
+03-03 22:25:18[I] cmd [3312] end...[-16777217]
+03-03 22:25:18[I] communicate end -16777217 / length : 0
+03-03 22:57:23[I] communicate start cmd:0x3312, length:64
+03-03 22:57:23[D] this request is from system_server
+03-03 22:57:23[I] cmd [3312] start...
+03-03 22:57:23[E] SecnvmPowerOff isn't supported.
+03-03 22:57:23[I] cmd [3312] end...[-16777217]
+03-03 22:57:23[I] communicate end -16777217 / length : 0
+03-03 22:57:44[I] communicate start cmd:0x3312, length:64
+03-03 22:57:44[D] this request is from system_server
+03-03 22:57:44[I] cmd [3312] start...
+03-03 22:57:44[E] SecnvmPowerOff isn't supported.
+03-03 22:57:44[I] cmd [3312] end...[-16777217]
+03-03 22:57:44[I] communicate end -16777217 / length : 0
+03-03 23:12:51[I] communicate start cmd:0x3312, length:64
+03-03 23:12:51[D] this request is from system_server
+03-03 23:12:51[I] cmd [3312] start...
+03-03 23:12:51[E] SecnvmPowerOff isn't supported.
+03-03 23:12:51[I] cmd [3312] end...[-16777217]
+03-03 23:12:51[I] communicate end -16777217 / length : 0
+03-03 23:13:38[I] communicate start cmd:0x3312, length:64
+03-03 23:13:38[D] this request is from system_server
+03-03 23:13:38[I] cmd [3312] start...
+03-03 23:13:38[E] SecnvmPowerOff isn't supported.
+03-03 23:13:38[I] cmd [3312] end...[-16777217]
+03-03 23:13:38[I] communicate end -16777217 / length : 0
+03-03 23:18:49[I] communicate start cmd:0x3312, length:64
+03-03 23:18:49[D] this request is from system_server
+03-03 23:18:49[I] cmd [3312] start...
+03-03 23:18:49[E] SecnvmPowerOff isn't supported.
+03-03 23:18:49[I] cmd [3312] end...[-16777217]
+03-03 23:18:49[I] communicate end -16777217 / length : 0
+03-03 23:23:02[I] communicate start cmd:0x3312, length:64
+03-03 23:23:02[D] this request is from system_server
+03-03 23:23:02[I] cmd [3312] start...
+03-03 23:23:02[E] SecnvmPowerOff isn't supported.
+03-03 23:23:02[I] cmd [3312] end...[-16777217]
+03-03 23:23:02[I] communicate end -16777217 / length : 0
+03-03 23:41:50[I] communicate start cmd:0x3312, length:64
+03-03 23:41:50[D] this request is from system_server
+03-03 23:41:50[I] cmd [3312] start...
+03-03 23:41:50[E] SecnvmPowerOff isn't supported.
+03-03 23:41:50[I] cmd [3312] end...[-16777217]
+03-03 23:41:50[I] communicate end -16777217 / length : 0
+03-03 23:42:15[I] communicate start cmd:0x3312, length:64
+03-03 23:42:15[D] this request is from system_server
+03-03 23:42:15[I] cmd [3312] start...
+03-03 23:42:15[E] SecnvmPowerOff isn't supported.
+03-03 23:42:15[I] cmd [3312] end...[-16777217]
+03-03 23:42:15[I] communicate end -16777217 / length : 0
+03-03 23:43:48[I] communicate start cmd:0x3312, length:64
+03-03 23:43:48[D] this request is from system_server
+03-03 23:43:48[I] cmd [3312] start...
+03-03 23:43:48[E] SecnvmPowerOff isn't supported.
+03-03 23:43:48[I] cmd [3312] end...[-16777217]
+03-03 23:43:48[I] communicate end -16777217 / length : 0
+03-03 23:47:32[I] communicate start cmd:0x3312, length:64
+03-03 23:47:32[D] this request is from system_server
+03-03 23:47:32[I] cmd [3312] start...
+03-03 23:47:32[E] SecnvmPowerOff isn't supported.
+03-03 23:47:32[I] cmd [3312] end...[-16777217]
+03-03 23:49:52[I] communicate start cmd:0x3301, length:64
+03-03 23:49:52[D] this request is from system_server
+03-03 23:49:52[I] cmd [3301] start...
+03-03 23:49:52[E] GetBigdataMsg isn't supported.
+03-03 23:49:52[I] cmd [3301] end...[-16777217]
+03-03 23:49:52[I] communicate end -16777217 / length : 0
+03-03 23:49:52[I] communicate start cmd:0x3101, length:103
+03-03 23:49:52[D] this request is from system_server
+03-03 23:49:52[I] cmd [3101] start...
+03-03 23:49:52[I] cmd [3101] end...[0]
+03-03 23:49:52[I] communicate end 0 / length : 95385
+03-03 23:49:52[I] communicate start cmd:0x3101, length:108
+03-03 23:49:52[D] this request is from system_server
+03-03 23:49:52[I] cmd [3101] start...
+03-03 23:49:52[I] cmd [3101] end...[0]
+03-03 23:49:52[I] communicate end 0 / length : 307424
+03-03 23:49:52[I] communicate start cmd:0x3101, length:105
+03-03 23:49:52[D] this request is from system_server
+03-03 23:49:52[I] cmd [3101] start...
+03-03 23:49:52[E] Failed to stat (No such file or directory)
+03-03 23:49:52[E] read file error
+03-03 23:49:52[I] cmd [3101] end...[-15402]
+03-03 23:49:52[I] communicate end -15402 / length : 0
+03-03 23:49:52[I] communicate start cmd:0x3101, length:110
+03-03 23:49:52[D] this request is from system_server
+03-03 23:49:52[I] cmd [3101] start...
+03-03 23:49:52[E] Failed to stat (No such file or directory)
+03-03 23:49:52[E] read file error
+03-03 23:49:52[I] cmd [3101] end...[-15402]
+03-03 23:49:52[I] communicate end -15402 / length : 0
+03-04 00:01:18[I] communicate start cmd:0x3312, length:64
+03-04 00:01:18[D] this request is from system_server
+03-04 00:01:18[I] cmd [3312] start...
+03-04 00:01:18[E] SecnvmPowerOff isn't supported.
+03-04 00:01:18[I] cmd [3312] end...[-16777217]
+03-04 00:01:18[I] communicate end -16777217 / length : 0
+03-04 02:13:59[I] communicate start cmd:0x3312, length:64
+03-04 02:13:59[D] this request is from system_server
+03-04 02:13:59[I] cmd [3312] start...
+03-04 02:13:59[E] SecnvmPowerOff isn't supported.
+03-04 02:13:59[I] cmd [3312] end...[-16777217]
+03-04 02:13:59[I] communicate end -16777217 / length : 0
+03-04 02:15:49[I] communicate start cmd:0x3312, length:64
+03-04 02:15:49[D] this request is from system_server
+03-04 02:15:49[I] cmd [3312] start...
+03-04 02:15:49[E] SecnvmPowerOff isn't supported.
+03-04 02:15:49[I] cmd [3312] end...[-16777217]
+03-04 05:19:02[I] communicate start cmd:0x3301, length:64
+03-04 05:19:02[D] this request is from system_server
+03-04 05:19:02[I] cmd [3301] start...
+03-04 05:19:02[E] GetBigdataMsg isn't supported.
+03-04 05:19:02[I] cmd [3301] end...[-16777217]
+03-04 05:19:02[I] communicate end -16777217 / length : 0
+03-04 05:19:02[I] communicate start cmd:0x3101, length:103
+03-04 05:19:02[D] this request is from system_server
+03-04 05:19:02[I] cmd [3101] start...
+03-04 05:19:02[I] cmd [3101] end...[0]
+03-04 05:19:02[I] communicate end 0 / length : 97806
+03-04 05:19:02[I] communicate start cmd:0x3101, length:108
+03-04 05:19:02[D] this request is from system_server
+03-04 05:19:02[I] cmd [3101] start...
+03-04 05:19:02[I] cmd [3101] end...[0]
+03-04 05:19:02[I] communicate end 0 / length : 307424
+03-04 05:19:02[I] communicate start cmd:0x3101, length:105
+03-04 05:19:02[D] this request is from system_server
+03-04 05:19:02[I] cmd [3101] start...
+03-04 05:19:02[E] Failed to stat (No such file or directory)
+03-04 05:19:02[E] read file error
+03-04 05:19:02[I] cmd [3101] end...[-15402]
+03-04 05:19:02[I] communicate end -15402 / length : 0
+03-04 05:19:02[I] communicate start cmd:0x3101, length:110
+03-04 05:19:02[D] this request is from system_server
+03-04 05:19:02[I] cmd [3101] start...
+03-04 05:19:02[E] Failed to stat (No such file or directory)
+03-04 05:19:02[E] read file error
+03-04 05:19:02[I] cmd [3101] end...[-15402]
+03-04 05:19:02[I] communicate end -15402 / length : 0
+03-04 02:20:13[I] communicate start cmd:0x2041, length:64
+03-04 02:20:13[D] this request is from system_server
+03-04 02:20:13[I] cmd [2041] start...
+03-04 02:20:13[I] DRK file exists. 2555
+03-04 02:20:13[I] cmd [2041] end...[0]
+03-04 02:20:13[I] communicate end 0 / length : 0
+03-04 02:20:13[I] communicate start cmd:0x2052, length:64
+03-04 02:20:13[D] this request is from system_server
+03-04 02:20:13[I] cmd [2052] start...
+03-04 02:20:13[I] DRK file exists. 2555
+03-04 02:20:13[I] cmd [2052] end...[0]
+03-04 02:20:13[I] communicate end 0 / length : 115
+03-04 02:20:13[I] communicate start cmd:0x2031, length:148
+03-04 02:20:13[D] this request is from system_server
+03-04 02:20:13[I] cmd [2031] start...
+03-04 02:20:13[I] DRK file exists. 2555
+03-04 02:20:14[E] Carrier length is not matched.
+03-04 02:20:14[I] IMEI supported model !!!
+03-04 02:20:14[I] receiveNotifyCB end
+03-04 02:20:14[E] Carrier length is not matched.
+03-04 02:20:14[I] IMEI supported model !!!
+03-04 02:20:14[I] receiveNotifyCB end
+03-04 02:20:14[I] DRK file exists. 2555
+03-04 02:20:20[I] cmd [2031] end...[0]
+03-04 02:20:20[I] communicate end 0 / length : 3942
+03-04 02:20:20[I] communicate start cmd:0x2032, length:64
+03-04 02:20:20[D] this request is from system_server
+03-04 02:20:20[I] cmd [2032] start...
+03-04 02:20:20[I] cmd [2032] end...[0]
+03-04 13:28:06[I] communicate start cmd:0x3301, length:64
+03-04 13:28:06[D] this request is from system_server
+03-04 13:28:06[I] cmd [3301] start...
+03-04 13:28:06[E] GetBigdataMsg isn't supported.
+03-04 13:28:06[I] cmd [3301] end...[-16777217]
+03-04 13:28:06[I] communicate end -16777217 / length : 0
+03-04 13:28:06[I] communicate start cmd:0x3101, length:103
+03-04 13:28:06[D] this request is from system_server
+03-04 13:28:06[I] cmd [3101] start...
+03-04 13:28:06[I] cmd [3101] end...[0]
+03-04 13:28:06[I] communicate end 0 / length : 100712
+03-04 13:28:06[I] communicate start cmd:0x3101, length:108
+03-04 13:28:06[D] this request is from system_server
+03-04 13:28:06[I] cmd [3101] start...
+03-04 13:28:06[I] cmd [3101] end...[0]
+03-04 13:28:06[I] communicate end 0 / length : 307424
+03-04 13:28:06[I] communicate start cmd:0x3101, length:105
+03-04 13:28:06[D] this request is from system_server
+03-04 13:28:06[I] cmd [3101] start...
+03-04 13:28:06[E] Failed to stat (No such file or directory)
+03-04 13:28:06[E] read file error
+03-04 13:28:06[I] cmd [3101] end...[-15402]
+03-04 13:28:06[I] communicate end -15402 / length : 0
+03-04 13:28:06[I] communicate start cmd:0x3101, length:110
+03-04 13:28:06[D] this request is from system_server
+03-04 13:28:06[I] cmd [3101] start...
+03-04 13:28:06[E] Failed to stat (No such file or directory)
+03-04 13:28:06[E] read file error
+03-04 13:28:06[I] cmd [3101] end...[-15402]
+03-04 13:28:06[I] communicate end -15402 / length : 0
+03-04 13:46:52[I] communicate start cmd:0x2031, length:148
+03-04 13:46:52[D] this request is from system_server
+03-04 13:46:52[I] cmd [2031] start...
+03-04 13:46:52[I] DRK file exists. 2555
+03-04 13:46:52[E] Carrier length is not matched.
+03-04 13:46:52[I] IMEI supported model !!!
+03-04 13:46:52[I] receiveNotifyCB end
+03-04 13:46:52[E] Carrier length is not matched.
+03-04 13:46:52[I] IMEI supported model !!!
+03-04 13:46:52[I] receiveNotifyCB end
+03-04 13:46:52[I] DRK file exists. 2555
+03-04 13:46:53[I] cmd [2031] end...[0]
+03-04 13:46:53[I] communicate end 0 / length : 3942
+03-04 13:46:53[I] communicate start cmd:0x2032, length:64
+03-04 13:46:53[D] this request is from system_server
+03-04 13:46:53[I] cmd [2032] start...
+03-04 13:46:53[I] cmd [2032] end...[0]
+03-04 13:46:53[I] communicate end 0 / length : 0
+03-04 13:48:35[I] communicate start cmd:0x3105, length:179
+03-04 13:48:35[D] this request is from /system/bin/keystore
+03-04 13:48:35[I] cmd [3105] start...
+03-04 13:48:35[I] cmd [3105] end...[0]
+03-04 13:48:35[I] communicate end 0 / length : 0
+03-04 13:48:39[I] communicate start cmd:0x3105, length:159
+03-04 13:48:39[D] this request is from /system/bin/keystore
+03-04 13:48:39[I] cmd [3105] start...
+03-04 13:48:39[I] cmd [3105] end...[0]
+03-04 13:48:39[I] communicate end 0 / length : 0
+03-04 14:03:56[I] communicate start cmd:0x3312, length:64
+03-04 14:03:56[D] this request is from system_server
+03-04 14:03:56[I] cmd [3312] start...
+03-04 14:03:56[E] SecnvmPowerOff isn't supported.
+03-04 14:03:56[I] cmd [3312] end...[-16777217]
+03-04 14:03:56[I] communicate end -16777217 / length : 0
+03-04 16:34:53[I] communicate start cmd:0x3312, length:64
+03-04 16:34:53[D] this request is from system_server
+03-04 16:34:53[I] cmd [3312] start...
+03-04 16:34:53[E] SecnvmPowerOff isn't supported.
+03-04 16:34:53[I] cmd [3312] end...[-16777217]
+03-04 16:34:53[I] communicate end -16777217 / length : 0
+03-05 09:31:01[I] communicate start cmd:0x3312, length:64
+03-05 09:31:01[D] this request is from system_server
+03-05 09:31:01[I] cmd [3312] start...
+03-05 09:31:01[E] SecnvmPowerOff isn't supported.
+03-05 09:31:01[I] cmd [3312] end...[-16777217]
+03-05 09:31:01[I] communicate end -16777217 / length : 0
+03-05 13:02:06[I] communicate start cmd:0x3312, length:64
+03-05 13:02:06[D] this request is from system_server
+03-05 13:02:06[I] cmd [3312] start...
+03-05 13:02:06[E] SecnvmPowerOff isn't supported.
+03-05 13:02:06[I] cmd [3312] end...[-16777217]
+03-05 13:02:06[I] communicate end -16777217 / length : 0
+03-05 13:47:47[I] communicate start cmd:0x3312, length:64
+03-05 13:47:47[D] this request is from system_server
+03-05 13:47:47[I] cmd [3312] start...
+03-05 13:47:47[E] SecnvmPowerOff isn't supported.
+03-05 13:47:47[I] cmd [3312] end...[-16777217]
+03-05 13:47:47[I] communicate end -16777217 / length : 0
+03-05 14:01:06[I] communicate start cmd:0x3312, length:64
+03-05 14:01:06[D] this request is from system_server
+03-05 14:01:06[I] cmd [3312] start...
+03-05 14:01:06[E] SecnvmPowerOff isn't supported.
+03-05 14:01:06[I] cmd [3312] end...[-16777217]
+03-05 14:01:06[I] communicate end -16777217 / length : 0
+03-05 14:09:32[I] communicate start cmd:0x3312, length:64
+03-05 14:09:32[D] this request is from system_server
+03-05 14:09:32[I] cmd [3312] start...
+03-05 14:09:32[E] SecnvmPowerOff isn't supported.
+03-05 14:09:32[I] cmd [3312] end...[-16777217]
+03-05 14:09:32[I] communicate end -16777217 / length : 0
+03-05 14:12:48[I] communicate start cmd:0x3312, length:64
+03-05 14:12:48[D] this request is from system_server
+03-05 14:12:48[I] cmd [3312] start...
+03-05 14:12:48[E] SecnvmPowerOff isn't supported.
+03-05 14:12:48[I] cmd [3312] end...[-16777217]
+03-05 14:12:48[I] communicate end -16777217 / length : 0
+03-05 14:17:44[I] communicate start cmd:0x3312, length:64
+03-05 14:17:44[D] this request is from system_server
+03-05 14:17:44[I] cmd [3312] start...
+03-05 14:17:44[E] SecnvmPowerOff isn't supported.
+03-05 14:17:44[I] cmd [3312] end...[-16777217]
+03-05 14:17:44[I] communicate end -16777217 / length : 0
+03-05 14:50:30[I] communicate start cmd:0x3312, length:64
+03-05 14:50:30[D] this request is from system_server
+03-05 14:50:30[I] cmd [3312] start...
+03-05 14:50:30[E] SecnvmPowerOff isn't supported.
+03-05 14:50:30[I] cmd [3312] end...[-16777217]
+03-05 14:50:30[I] communicate end -16777217 / length : 0
+03-05 15:05:13[I] communicate start cmd:0x3312, length:64
+03-05 15:05:13[D] this request is from system_server
+03-05 15:05:13[I] cmd [3312] start...
+03-05 15:05:13[E] SecnvmPowerOff isn't supported.
+03-05 15:05:13[I] cmd [3312] end...[-16777217]
+03-05 15:05:13[I] communicate end -16777217 / length : 0
+03-05 15:28:34[I] communicate start cmd:0x3312, length:64
+03-05 15:28:34[D] this request is from system_server
+03-05 15:28:34[I] cmd [3312] start...
+03-05 15:28:34[E] SecnvmPowerOff isn't supported.
+03-05 15:28:34[I] cmd [3312] end...[-16777217]
+03-05 15:28:34[I] communicate end -16777217 / length : 0
+03-05 15:31:06[I] communicate start cmd:0x3312, length:64
+03-05 15:31:06[D] this request is from system_server
+03-05 15:31:06[I] cmd [3312] start...
+03-05 15:31:06[E] SecnvmPowerOff isn't supported.
+03-05 15:31:06[I] cmd [3312] end...[-16777217]
+03-05 18:40:14[I] communicate start cmd:0x3301, length:64
+03-05 18:40:14[D] this request is from system_server
+03-05 18:40:14[I] cmd [3301] start...
+03-05 18:40:14[E] GetBigdataMsg isn't supported.
+03-05 18:40:14[I] cmd [3301] end...[-16777217]
+03-05 18:40:14[I] communicate end -16777217 / length : 0
+03-05 18:40:14[I] communicate start cmd:0x3101, length:103
+03-05 18:40:14[D] this request is from system_server
+03-05 18:40:14[I] cmd [3101] start...
+03-05 18:40:14[I] cmd [3101] end...[0]
+03-05 18:40:14[I] communicate end 0 / length : 107640
+03-05 18:40:14[I] communicate start cmd:0x3101, length:108
+03-05 18:40:14[D] this request is from system_server
+03-05 18:40:14[I] cmd [3101] start...
+03-05 18:40:14[I] cmd [3101] end...[0]
+03-05 18:40:14[I] communicate end 0 / length : 307424
+03-05 18:40:14[I] communicate start cmd:0x3101, length:105
+03-05 18:40:14[D] this request is from system_server
+03-05 18:40:14[I] cmd [3101] start...
+03-05 18:40:14[E] Failed to stat (No such file or directory)
+03-05 18:40:14[E] read file error
+03-05 18:40:14[I] cmd [3101] end...[-15402]
+03-05 18:40:14[I] communicate end -15402 / length : 0
+03-05 18:40:14[I] communicate start cmd:0x3101, length:110
+03-05 18:40:14[D] this request is from system_server
+03-05 18:40:14[I] cmd [3101] start...
+03-05 18:40:14[E] Failed to stat (No such file or directory)
+03-05 18:40:14[E] read file error
+03-05 18:40:14[I] cmd [3101] end...[-15402]
+03-05 18:40:14[I] communicate end -15402 / length : 0
+03-05 15:41:27[I] communicate start cmd:0x2041, length:64
+03-05 15:41:27[D] this request is from system_server
+03-05 15:41:27[I] cmd [2041] start...
+03-05 15:41:27[I] DRK file exists. 2555
+03-05 15:41:27[I] cmd [2041] end...[0]
+03-05 15:41:27[I] communicate end 0 / length : 0
+03-05 15:41:27[I] communicate start cmd:0x2052, length:64
+03-05 15:41:27[D] this request is from system_server
+03-05 15:41:27[I] cmd [2052] start...
+03-05 15:41:27[I] DRK file exists. 2555
+03-05 15:41:27[I] cmd [2052] end...[0]
+03-05 15:41:27[I] communicate end 0 / length : 115
+03-05 15:41:27[I] communicate start cmd:0x2031, length:148
+03-05 15:41:27[D] this request is from system_server
+03-05 15:41:27[I] cmd [2031] start...
+03-05 15:41:27[I] DRK file exists. 2555
+03-05 15:41:27[E] Carrier length is not matched.
+03-05 15:41:27[I] IMEI supported model !!!
+03-05 15:41:27[I] receiveNotifyCB end
+03-05 15:41:27[E] Carrier length is not matched.
+03-05 15:41:27[I] IMEI supported model !!!
+03-05 15:41:27[I] receiveNotifyCB end
+03-05 15:41:27[I] DRK file exists. 2555
+03-05 15:41:29[I] cmd [2031] end...[0]
+03-05 15:41:29[I] communicate end 0 / length : 3940
+03-05 15:41:29[I] communicate start cmd:0x2032, length:64
+03-05 15:41:29[D] this request is from system_server
+03-05 15:41:29[I] cmd [2032] start...
+03-05 15:41:29[I] cmd [2032] end...[0]
+03-05 15:41:29[I] communicate end 0 / length : 0
+03-05 15:50:42[I] communicate start cmd:0x3105, length:140
+03-05 15:50:42[D] this request is from /system/bin/keystore
+03-05 15:50:42[I] cmd [3105] start...
+03-05 15:50:42[I] cmd [3105] end...[0]
+03-05 15:50:42[I] communicate end 0 / length : 0
+03-05 15:51:49[I] communicate start cmd:0x2031, length:148
+03-05 15:51:49[D] this request is from system_server
+03-05 15:51:49[I] cmd [2031] start...
+03-05 15:51:49[I] DRK file exists. 2555
+03-05 15:51:49[E] Carrier length is not matched.
+03-05 15:51:49[I] IMEI supported model !!!
+03-05 15:51:49[I] receiveNotifyCB end
+03-05 15:51:49[E] Carrier length is not matched.
+03-05 15:51:49[I] IMEI supported model !!!
+03-05 15:51:49[I] receiveNotifyCB end
+03-05 15:51:49[I] DRK file exists. 2555
+03-05 15:51:50[I] communicate start cmd:0x3105, length:179
+03-05 15:51:50[D] this request is from /system/bin/keystore
+03-05 15:51:50[I] cmd [3105] start...
+03-05 15:51:50[I] cmd [3105] end...[0]
+03-05 15:51:50[I] communicate end 0 / length : 0
+03-05 15:51:53[I] cmd [2031] end...[0]
+03-05 15:51:53[I] communicate end 0 / length : 3941
+03-05 15:51:53[I] communicate start cmd:0x2032, length:64
+03-05 15:51:53[D] this request is from system_server
+03-05 15:51:53[I] cmd [2032] start...
+03-05 15:51:53[I] cmd [2032] end...[0]
+03-05 15:51:53[I] communicate end 0 / length : 0
+03-05 15:56:52[I] communicate start cmd:0x3312, length:64
+03-05 15:56:52[D] this request is from system_server
+03-05 15:56:52[I] cmd [3312] start...
+03-05 15:56:52[E] SecnvmPowerOff isn't supported.
+03-05 15:56:52[I] cmd [3312] end...[-16777217]
+03-05 15:56:52[I] communicate end -16777217 / length : 0
+03-05 15:57:06[I] communicate start cmd:0x3105, length:159
+03-05 15:57:06[D] this request is from /system/bin/keystore
+03-05 15:57:06[I] cmd [3105] start...
+03-05 15:57:06[I] cmd [3105] end...[0]
+03-05 15:57:06[I] communicate end 0 / length : 0
+03-05 16:13:57[I] communicate start cmd:0x3312, length:64
+03-05 16:13:57[D] this request is from system_server
+03-05 16:13:57[I] cmd [3312] start...
+03-05 16:13:57[E] SecnvmPowerOff isn't supported.
+03-05 16:13:57[I] cmd [3312] end...[-16777217]
+03-05 16:13:57[I] communicate end -16777217 / length : 0
+03-05 16:16:34[I] communicate start cmd:0x3312, length:64
+03-05 16:16:34[D] this request is from system_server
+03-05 16:16:34[I] cmd [3312] start...
+03-05 16:16:34[E] SecnvmPowerOff isn't supported.
+03-05 16:16:34[I] cmd [3312] end...[-16777217]
+03-05 16:16:34[I] communicate end -16777217 / length : 0
+03-05 16:18:01[I] communicate start cmd:0x3312, length:64
+03-05 16:18:01[D] this request is from system_server
+03-05 16:18:01[I] cmd [3312] start...
+03-05 16:18:01[E] SecnvmPowerOff isn't supported.
+03-05 16:18:01[I] cmd [3312] end...[-16777217]
+03-05 16:18:01[I] communicate end -16777217 / length : 0
+03-05 16:25:22[I] communicate start cmd:0x3312, length:64
+03-05 16:25:22[D] this request is from system_server
+03-05 16:25:22[I] cmd [3312] start...
+03-05 16:25:22[E] SecnvmPowerOff isn't supported.
+03-05 16:25:22[I] cmd [3312] end...[-16777217]
+03-05 16:25:22[I] communicate end -16777217 / length : 0
+03-05 16:35:48[I] communicate start cmd:0x3312, length:64
+03-05 16:35:48[D] this request is from system_server
+03-05 16:35:48[I] cmd [3312] start...
+03-05 16:35:48[E] SecnvmPowerOff isn't supported.
+03-05 16:35:48[I] cmd [3312] end...[-16777217]
+03-05 16:35:48[I] communicate end -16777217 / length : 0
+03-05 16:53:00[I] communicate start cmd:0x3312, length:64
+03-05 16:53:00[D] this request is from system_server
+03-05 16:53:00[I] cmd [3312] start...
+03-05 16:53:00[E] SecnvmPowerOff isn't supported.
+03-05 16:53:00[I] cmd [3312] end...[-16777217]
+03-05 16:53:00[I] communicate end -16777217 / length : 0
+03-05 16:53:55[I] communicate start cmd:0x3312, length:64
+03-05 16:53:55[D] this request is from system_server
+03-05 16:53:55[I] cmd [3312] start...
+03-05 16:53:55[E] SecnvmPowerOff isn't supported.
+03-05 16:53:55[I] cmd [3312] end...[-16777217]
+03-05 16:53:55[I] communicate end -16777217 / length : 0
+03-05 17:06:03[I] communicate start cmd:0x3312, length:64
+03-05 17:06:03[D] this request is from system_server
+03-05 17:06:03[I] cmd [3312] start...
+03-05 17:06:03[E] SecnvmPowerOff isn't supported.
+03-05 17:06:03[I] cmd [3312] end...[-16777217]
+03-05 17:06:03[I] communicate end -16777217 / length : 0
+03-05 17:49:24[I] communicate start cmd:0x3312, length:64
+03-05 17:49:24[D] this request is from system_server
+03-05 17:49:24[I] cmd [3312] start...
+03-05 17:49:24[E] SecnvmPowerOff isn't supported.
+03-05 17:49:24[I] cmd [3312] end...[-16777217]
+03-05 17:49:24[I] communicate end -16777217 / length : 0
+03-05 18:13:17[I] communicate start cmd:0x3312, length:64
+03-05 18:13:17[D] this request is from system_server
+03-05 18:13:17[I] cmd [3312] start...
+03-05 18:13:17[E] SecnvmPowerOff isn't supported.
+03-05 18:13:17[I] cmd [3312] end...[-16777217]
+03-05 18:13:17[I] communicate end -16777217 / length : 0
+03-05 18:17:10[I] communicate start cmd:0x3105, length:140
+03-05 18:17:10[D] this request is from /system/bin/keystore
+03-05 18:17:10[I] cmd [3105] start...
+03-05 18:17:10[I] cmd [3105] end...[0]
+03-05 18:17:10[I] communicate end 0 / length : 0
+03-05 18:18:08[I] communicate start cmd:0x2041, length:64
+03-05 18:18:08[D] this request is from system_server
+03-05 18:18:08[I] cmd [2041] start...
+03-05 18:18:08[I] DRK file exists. 2555
+03-05 18:18:08[I] cmd [2041] end...[0]
+03-05 18:18:08[I] communicate end 0 / length : 0
+03-05 18:18:08[I] communicate start cmd:0x2031, length:148
+03-05 18:18:08[D] this request is from system_server
+03-05 18:18:08[I] cmd [2031] start...
+03-05 18:18:08[I] DRK file exists. 2555
+03-05 18:18:08[E] Carrier length is not matched.
+03-05 18:18:08[I] IMEI supported model !!!
+03-05 18:18:08[I] receiveNotifyCB end
+03-05 18:18:08[E] Carrier length is not matched.
+03-05 18:18:08[I] IMEI supported model !!!
+03-05 18:18:08[I] receiveNotifyCB end
+03-05 18:18:08[I] DRK file exists. 2555
+03-05 18:18:10[I] cmd [2031] end...[0]
+03-05 18:18:10[I] communicate end 0 / length : 3942
+03-05 18:18:10[I] communicate start cmd:0x2032, length:64
+03-05 18:18:10[D] this request is from system_server
+03-05 18:18:10[I] cmd [2032] start...
+03-05 18:18:10[I] cmd [2032] end...[0]
+03-05 18:18:10[I] communicate end 0 / length : 0
+03-05 18:18:13[I] communicate start cmd:0x3105, length:151
+03-05 18:18:13[D] this request is from /system/bin/keystore
+03-05 18:18:13[I] cmd [3105] start...
+03-05 18:18:13[I] cmd [3105] end...[0]
+03-05 18:18:13[I] communicate end 0 / length : 0
+03-05 19:20:24[I] communicate start cmd:0x3312, length:64
+03-05 19:20:24[D] this request is from system_server
+03-05 19:20:24[I] cmd [3312] start...
+03-05 19:20:24[E] SecnvmPowerOff isn't supported.
+03-05 19:20:24[I] cmd [3312] end...[-16777217]
+03-05 19:20:24[I] communicate end -16777217 / length : 0
+03-05 19:33:22[I] communicate start cmd:0x3312, length:64
+03-05 19:33:22[D] this request is from system_server
+03-05 19:33:22[I] cmd [3312] start...
+03-05 19:33:22[E] SecnvmPowerOff isn't supported.
+03-05 19:33:22[I] cmd [3312] end...[-16777217]
+03-05 19:33:22[I] communicate end -16777217 / length : 0
+03-05 19:33:28[I] communicate start cmd:0x3312, length:64
+03-05 19:33:28[D] this request is from system_server
+03-05 19:33:28[I] cmd [3312] start...
+03-05 19:33:28[E] SecnvmPowerOff isn't supported.
+03-05 19:33:28[I] cmd [3312] end...[-16777217]
+03-05 19:33:28[I] communicate end -16777217 / length : 0
+03-05 20:07:59[I] communicate start cmd:0x3312, length:64
+03-05 20:07:59[D] this request is from system_server
+03-05 20:07:59[I] cmd [3312] start...
+03-05 20:07:59[E] SecnvmPowerOff isn't supported.
+03-05 20:07:59[I] cmd [3312] end...[-16777217]
+03-05 20:07:59[I] communicate end -16777217 / length : 0
+03-05 21:03:55[I] communicate start cmd:0x3312, length:64
+03-05 21:03:55[D] this request is from system_server
+03-05 21:03:55[I] cmd [3312] start...
+03-05 21:03:55[E] SecnvmPowerOff isn't supported.
+03-05 21:03:55[I] cmd [3312] end...[-16777217]
+03-05 21:03:55[I] communicate end -16777217 / length : 0
+03-05 21:04:45[I] communicate start cmd:0x3312, length:64
+03-05 21:04:45[D] this request is from system_server
+03-05 21:04:45[I] cmd [3312] start...
+03-05 21:04:45[E] SecnvmPowerOff isn't supported.
+03-05 21:04:45[I] cmd [3312] end...[-16777217]
+03-05 21:04:45[I] communicate end -16777217 / length : 0
+03-05 21:47:15[I] communicate start cmd:0x3312, length:64
+03-05 21:47:15[D] this request is from system_server
+03-05 21:47:15[I] cmd [3312] start...
+03-05 21:47:15[E] SecnvmPowerOff isn't supported.
+03-05 21:47:15[I] cmd [3312] end...[-16777217]
+03-05 21:47:15[I] communicate end -16777217 / length : 0
+03-05 21:55:12[I] communicate start cmd:0x3312, length:64
+03-05 21:55:12[D] this request is from system_server
+03-05 21:55:12[I] cmd [3312] start...
+03-05 21:55:12[E] SecnvmPowerOff isn't supported.
+03-05 21:55:12[I] cmd [3312] end...[-16777217]
+03-05 21:55:12[I] communicate end -16777217 / length : 0
+03-05 22:53:55[I] communicate start cmd:0x3312, length:64
+03-05 22:53:55[D] this request is from system_server
+03-05 22:53:55[I] cmd [3312] start...
+03-05 22:53:55[E] SecnvmPowerOff isn't supported.
+03-05 22:53:55[I] cmd [3312] end...[-16777217]
+03-05 22:53:55[I] communicate end -16777217 / length : 0
+03-06 04:42:50[I] communicate start cmd:0x3312, length:64
+03-06 04:42:50[D] this request is from system_server
+03-06 04:42:50[I] cmd [3312] start...
+03-06 04:42:50[E] SecnvmPowerOff isn't supported.
+03-06 04:42:50[I] cmd [3312] end...[-16777217]
+03-06 04:42:50[I] communicate end -16777217 / length : 0
+03-06 06:10:36[I] communicate start cmd:0x3312, length:64
+03-06 06:10:36[D] this request is from system_server
+03-06 06:10:36[I] cmd [3312] start...
+03-06 06:10:36[E] SecnvmPowerOff isn't supported.
+03-06 06:10:36[I] cmd [3312] end...[-16777217]
+03-06 06:10:36[I] communicate end -16777217 / length : 0
+03-06 06:18:12[I] communicate start cmd:0x3312, length:64
+03-06 06:18:12[D] this request is from system_server
+03-06 06:18:12[I] cmd [3312] start...
+03-06 06:18:12[E] SecnvmPowerOff isn't supported.
+03-06 06:18:12[I] cmd [3312] end...[-16777217]
+03-06 06:18:12[I] communicate end -16777217 / length : 0
+03-06 06:29:12[I] communicate start cmd:0x3312, length:64
+03-06 06:29:12[D] this request is from system_server
+03-06 06:29:12[I] cmd [3312] start...
+03-06 06:29:12[E] SecnvmPowerOff isn't supported.
+03-06 06:29:12[I] cmd [3312] end...[-16777217]
+03-06 06:29:12[I] communicate end -16777217 / length : 0
+03-06 06:43:05[I] communicate start cmd:0x3312, length:64
+03-06 06:43:05[D] this request is from system_server
+03-06 06:43:05[I] cmd [3312] start...
+03-06 06:43:05[E] SecnvmPowerOff isn't supported.
+03-06 06:43:05[I] cmd [3312] end...[-16777217]
+03-06 06:43:05[I] communicate end -16777217 / length : 0
+03-06 06:44:49[I] communicate start cmd:0x3312, length:64
+03-06 06:44:49[D] this request is from system_server
+03-06 06:44:49[I] cmd [3312] start...
+03-06 06:44:49[E] SecnvmPowerOff isn't supported.
+03-06 06:44:49[I] cmd [3312] end...[-16777217]
+03-06 06:44:49[I] communicate end -16777217 / length : 0
+03-06 06:52:24[I] communicate start cmd:0x3312, length:64
+03-06 06:52:24[D] this request is from system_server
+03-06 06:52:24[I] cmd [3312] start...
+03-06 06:52:24[E] SecnvmPowerOff isn't supported.
+03-06 06:52:24[I] cmd [3312] end...[-16777217]
+03-06 06:52:24[I] communicate end -16777217 / length : 0
+03-06 07:17:18[I] communicate start cmd:0x3312, length:64
+03-06 07:17:18[D] this request is from system_server
+03-06 07:17:18[I] cmd [3312] start...
+03-06 07:17:18[E] SecnvmPowerOff isn't supported.
+03-06 07:17:18[I] cmd [3312] end...[-16777217]
+03-06 07:17:18[I] communicate end -16777217 / length : 0
+03-06 08:51:56[I] communicate start cmd:0x3312, length:64
+03-06 08:51:56[D] this request is from system_server
+03-06 08:51:56[I] cmd [3312] start...
+03-06 08:51:56[E] SecnvmPowerOff isn't supported.
+03-06 08:51:56[I] cmd [3312] end...[-16777217]
+03-06 08:51:56[I] communicate end -16777217 / length : 0
+03-06 08:56:00[I] communicate start cmd:0x3312, length:64
+03-06 08:56:00[D] this request is from system_server
+03-06 08:56:00[I] cmd [3312] start...
+03-06 08:56:00[E] SecnvmPowerOff isn't supported.
+03-06 08:56:00[I] cmd [3312] end...[-16777217]
+03-06 08:56:00[I] communicate end -16777217 / length : 0
+03-06 09:01:26[I] communicate start cmd:0x3312, length:64
+03-06 09:01:26[D] this request is from system_server
+03-06 09:01:26[I] cmd [3312] start...
+03-06 09:01:26[E] SecnvmPowerOff isn't supported.
+03-06 09:01:26[I] cmd [3312] end...[-16777217]
+03-06 09:01:26[I] communicate end -16777217 / length : 0
+03-06 09:02:46[I] communicate start cmd:0x3312, length:64
+03-06 09:02:46[D] this request is from system_server
+03-06 09:02:46[I] cmd [3312] start...
+03-06 09:02:46[E] SecnvmPowerOff isn't supported.
+03-06 09:02:46[I] cmd [3312] end...[-16777217]
+03-06 09:02:46[I] communicate end -16777217 / length : 0
+03-06 09:03:50[I] communicate start cmd:0x3312, length:64
+03-06 09:03:50[D] this request is from system_server
+03-06 09:03:50[I] cmd [3312] start...
+03-06 09:03:50[E] SecnvmPowerOff isn't supported.
+03-06 09:03:50[I] cmd [3312] end...[-16777217]
+03-06 09:03:50[I] communicate end -16777217 / length : 0
+03-06 09:08:21[I] communicate start cmd:0x3312, length:64
+03-06 09:08:21[D] this request is from system_server
+03-06 09:08:21[I] cmd [3312] start...
+03-06 09:08:21[E] SecnvmPowerOff isn't supported.
+03-06 09:08:21[I] cmd [3312] end...[-16777217]
+03-06 09:08:21[I] communicate end -16777217 / length : 0
+03-06 09:09:14[I] communicate start cmd:0x3312, length:64
+03-06 09:09:14[D] this request is from system_server
+03-06 09:09:14[I] cmd [3312] start...
+03-06 09:09:14[E] SecnvmPowerOff isn't supported.
+03-06 09:09:14[I] cmd [3312] end...[-16777217]
+03-06 09:09:14[I] communicate end -16777217 / length : 0
+03-06 09:09:17[I] communicate start cmd:0x3312, length:64
+03-06 09:09:17[D] this request is from system_server
+03-06 09:09:17[I] cmd [3312] start...
+03-06 09:09:17[E] SecnvmPowerOff isn't supported.
+03-06 09:09:17[I] cmd [3312] end...[-16777217]
+03-06 09:09:17[I] communicate end -16777217 / length : 0
+03-06 10:13:22[I] communicate start cmd:0x3312, length:64
+03-06 10:13:22[D] this request is from system_server
+03-06 10:13:22[I] cmd [3312] start...
+03-06 10:13:22[E] SecnvmPowerOff isn't supported.
+03-06 10:13:22[I] cmd [3312] end...[-16777217]
+03-06 10:13:22[I] communicate end -16777217 / length : 0
+03-06 10:48:56[I] communicate start cmd:0x3312, length:64
+03-06 10:48:56[D] this request is from system_server
+03-06 10:48:56[I] cmd [3312] start...
+03-06 10:48:56[E] SecnvmPowerOff isn't supported.
+03-06 10:48:56[I] cmd [3312] end...[-16777217]
+03-06 10:48:56[I] communicate end -16777217 / length : 0
+03-06 10:56:24[I] communicate start cmd:0x3312, length:64
+03-06 10:56:24[D] this request is from system_server
+03-06 10:56:24[I] cmd [3312] start...
+03-06 10:56:24[E] SecnvmPowerOff isn't supported.
+03-06 10:56:24[I] cmd [3312] end...[-16777217]
+03-06 10:56:24[I] communicate end -16777217 / length : 0
+03-06 11:03:46[I] communicate start cmd:0x3312, length:64
+03-06 11:03:46[D] this request is from system_server
+03-06 11:03:46[I] cmd [3312] start...
+03-06 11:03:46[E] SecnvmPowerOff isn't supported.
+03-06 11:03:46[I] cmd [3312] end...[-16777217]
+03-06 11:03:46[I] communicate end -16777217 / length : 0
+03-06 11:20:34[I] communicate start cmd:0x3312, length:64
+03-06 11:20:34[D] this request is from system_server
+03-06 11:20:34[I] cmd [3312] start...
+03-06 11:20:34[E] SecnvmPowerOff isn't supported.
+03-06 11:20:34[I] cmd [3312] end...[-16777217]
+03-06 11:20:34[I] communicate end -16777217 / length : 0
+03-06 11:42:29[I] communicate start cmd:0x3312, length:64
+03-06 11:42:29[D] this request is from system_server
+03-06 11:42:29[I] cmd [3312] start...
+03-06 11:42:29[E] SecnvmPowerOff isn't supported.
+03-06 11:42:29[I] cmd [3312] end...[-16777217]
+03-06 11:42:29[I] communicate end -16777217 / length : 0
+03-06 11:44:34[I] communicate start cmd:0x3312, length:64
+03-06 11:44:34[D] this request is from system_server
+03-06 11:44:34[I] cmd [3312] start...
+03-06 11:44:34[E] SecnvmPowerOff isn't supported.
+03-06 11:44:34[I] cmd [3312] end...[-16777217]
+03-06 11:44:34[I] communicate end -16777217 / length : 0
+03-06 11:51:15[I] communicate start cmd:0x3312, length:64
+03-06 11:51:15[D] this request is from system_server
+03-06 11:51:15[I] cmd [3312] start...
+03-06 11:51:15[E] SecnvmPowerOff isn't supported.
+03-06 11:51:15[I] cmd [3312] end...[-16777217]
+03-06 11:51:15[I] communicate end -16777217 / length : 0
+03-06 12:01:03[I] communicate start cmd:0x3312, length:64
+03-06 12:01:03[D] this request is from system_server
+03-06 12:01:03[I] cmd [3312] start...
+03-06 12:01:03[E] SecnvmPowerOff isn't supported.
+03-06 12:01:03[I] cmd [3312] end...[-16777217]
+03-06 12:01:03[I] communicate end -16777217 / length : 0
+03-06 12:16:35[I] communicate start cmd:0x3312, length:64
+03-06 12:16:35[D] this request is from system_server
+03-06 12:16:35[I] cmd [3312] start...
+03-06 12:16:35[E] SecnvmPowerOff isn't supported.
+03-06 12:16:35[I] cmd [3312] end...[-16777217]
+03-06 12:16:35[I] communicate end -16777217 / length : 0
+03-06 12:23:55[I] communicate start cmd:0x3312, length:64
+03-06 12:23:55[D] this request is from system_server
+03-06 12:23:55[I] cmd [3312] start...
+03-06 12:23:55[E] SecnvmPowerOff isn't supported.
+03-06 12:23:55[I] cmd [3312] end...[-16777217]
+03-06 12:23:55[I] communicate end -16777217 / length : 0
+03-06 12:43:43[I] communicate start cmd:0x3312, length:64
+03-06 12:43:43[D] this request is from system_server
+03-06 12:43:43[I] cmd [3312] start...
+03-06 12:43:43[E] SecnvmPowerOff isn't supported.
+03-06 12:43:43[I] cmd [3312] end...[-16777217]
+03-06 12:43:43[I] communicate end -16777217 / length : 0
+03-06 12:50:24[I] communicate start cmd:0x3312, length:64
+03-06 12:50:24[D] this request is from system_server
+03-06 12:50:24[I] cmd [3312] start...
+03-06 12:50:24[E] SecnvmPowerOff isn't supported.
+03-06 12:50:24[I] cmd [3312] end...[-16777217]
+03-06 12:50:24[I] communicate end -16777217 / length : 0
+03-06 12:57:54[I] communicate start cmd:0x3312, length:64
+03-06 12:57:54[D] this request is from system_server
+03-06 12:57:54[I] cmd [3312] start...
+03-06 12:57:54[E] SecnvmPowerOff isn't supported.
+03-06 12:57:54[I] cmd [3312] end...[-16777217]
+03-06 12:57:54[I] communicate end -16777217 / length : 0
+03-06 13:01:29[I] communicate start cmd:0x3312, length:64
+03-06 13:01:29[D] this request is from system_server
+03-06 13:01:29[I] cmd [3312] start...
+03-06 13:01:29[E] SecnvmPowerOff isn't supported.
+03-06 13:01:29[I] cmd [3312] end...[-16777217]
+03-06 13:01:29[I] communicate end -16777217 / length : 0
+03-06 13:02:59[I] communicate start cmd:0x3312, length:64
+03-06 13:02:59[D] this request is from system_server
+03-06 13:02:59[I] cmd [3312] start...
+03-06 13:02:59[E] SecnvmPowerOff isn't supported.
+03-06 13:02:59[I] cmd [3312] end...[-16777217]
+03-06 13:02:59[I] communicate end -16777217 / length : 0
+03-06 13:05:36[I] communicate start cmd:0x3312, length:64
+03-06 13:05:36[D] this request is from system_server
+03-06 13:05:36[I] cmd [3312] start...
+03-06 13:05:36[E] SecnvmPowerOff isn't supported.
+03-06 13:05:36[I] cmd [3312] end...[-16777217]
+03-06 13:05:36[I] communicate end -16777217 / length : 0
+03-06 13:16:51[I] communicate start cmd:0x3312, length:64
+03-06 13:16:51[D] this request is from system_server
+03-06 13:16:51[I] cmd [3312] start...
+03-06 13:16:51[E] SecnvmPowerOff isn't supported.
+03-06 13:16:51[I] cmd [3312] end...[-16777217]
+03-06 13:16:51[I] communicate end -16777217 / length : 0
+03-06 13:16:57[I] communicate start cmd:0x3312, length:64
+03-06 13:16:57[D] this request is from system_server
+03-06 13:16:57[I] cmd [3312] start...
+03-06 13:16:57[E] SecnvmPowerOff isn't supported.
+03-06 13:16:57[I] cmd [3312] end...[-16777217]
+03-06 13:16:57[I] communicate end -16777217 / length : 0
+03-06 13:19:38[I] communicate start cmd:0x3312, length:64
+03-06 13:19:38[D] this request is from system_server
+03-06 13:19:38[I] cmd [3312] start...
+03-06 13:19:38[E] SecnvmPowerOff isn't supported.
+03-06 13:19:38[I] cmd [3312] end...[-16777217]
+03-06 13:19:38[I] communicate end -16777217 / length : 0
+03-06 13:20:52[I] communicate start cmd:0x3312, length:64
+03-06 13:20:52[D] this request is from system_server
+03-06 13:20:52[I] cmd [3312] start...
+03-06 13:20:52[E] SecnvmPowerOff isn't supported.
+03-06 13:20:52[I] cmd [3312] end...[-16777217]
+03-06 13:20:52[I] communicate end -16777217 / length : 0
+03-06 13:30:38[I] communicate start cmd:0x3312, length:64
+03-06 13:30:38[D] this request is from system_server
+03-06 13:30:38[I] cmd [3312] start...
+03-06 13:30:38[E] SecnvmPowerOff isn't supported.
+03-06 13:30:38[I] cmd [3312] end...[-16777217]
+03-06 13:30:38[I] communicate end -16777217 / length : 0
+03-06 13:30:51[I] communicate start cmd:0x3312, length:64
+03-06 13:30:51[D] this request is from system_server
+03-06 13:30:51[I] cmd [3312] start...
+03-06 13:30:51[E] SecnvmPowerOff isn't supported.
+03-06 13:30:51[I] cmd [3312] end...[-16777217]
+03-06 13:30:51[I] communicate end -16777217 / length : 0
+03-06 13:37:23[I] communicate start cmd:0x3312, length:64
+03-06 13:37:23[D] this request is from system_server
+03-06 13:37:23[I] cmd [3312] start...
+03-06 13:37:23[E] SecnvmPowerOff isn't supported.
+03-06 13:37:23[I] cmd [3312] end...[-16777217]
+03-06 13:37:23[I] communicate end -16777217 / length : 0
+03-06 13:39:42[I] communicate start cmd:0x3312, length:64
+03-06 13:39:42[D] this request is from system_server
+03-06 13:39:42[I] cmd [3312] start...
+03-06 13:39:42[E] SecnvmPowerOff isn't supported.
+03-06 13:39:42[I] cmd [3312] end...[-16777217]
+03-06 13:39:42[I] communicate end -16777217 / length : 0
+03-06 13:50:09[I] communicate start cmd:0x3312, length:64
+03-06 13:50:09[D] this request is from system_server
+03-06 13:50:09[I] cmd [3312] start...
+03-06 13:50:09[E] SecnvmPowerOff isn't supported.
+03-06 13:50:09[I] cmd [3312] end...[-16777217]
+03-06 13:50:09[I] communicate end -16777217 / length : 0
+03-06 14:02:35[I] communicate start cmd:0x3312, length:64
+03-06 14:02:35[D] this request is from system_server
+03-06 14:02:35[I] cmd [3312] start...
+03-06 14:02:35[E] SecnvmPowerOff isn't supported.
+03-06 14:02:35[I] cmd [3312] end...[-16777217]
+03-06 14:02:35[I] communicate end -16777217 / length : 0
+03-06 14:07:15[I] communicate start cmd:0x3312, length:64
+03-06 14:07:15[D] this request is from system_server
+03-06 14:07:15[I] cmd [3312] start...
+03-06 14:07:15[E] SecnvmPowerOff isn't supported.
+03-06 14:07:15[I] cmd [3312] end...[-16777217]
+03-06 14:07:15[I] communicate end -16777217 / length : 0
+03-06 14:09:03[I] communicate start cmd:0x3312, length:64
+03-06 14:09:03[D] this request is from system_server
+03-06 14:09:03[I] cmd [3312] start...
+03-06 14:09:03[E] SecnvmPowerOff isn't supported.
+03-06 14:09:03[I] cmd [3312] end...[-16777217]
+03-06 14:09:03[I] communicate end -16777217 / length : 0
+03-06 14:20:48[I] communicate start cmd:0x3312, length:64
+03-06 14:20:48[D] this request is from system_server
+03-06 14:20:48[I] cmd [3312] start...
+03-06 14:20:48[E] SecnvmPowerOff isn't supported.
+03-06 14:20:48[I] cmd [3312] end...[-16777217]
+03-06 14:20:48[I] communicate end -16777217 / length : 0
+03-06 14:25:47[I] communicate start cmd:0x3312, length:64
+03-06 14:25:47[D] this request is from system_server
+03-06 14:25:47[I] cmd [3312] start...
+03-06 14:25:47[E] SecnvmPowerOff isn't supported.
+03-06 14:25:47[I] cmd [3312] end...[-16777217]
+03-06 14:25:47[I] communicate end -16777217 / length : 0
+03-06 14:28:04[I] communicate start cmd:0x3312, length:64
+03-06 14:28:04[D] this request is from system_server
+03-06 14:28:04[I] cmd [3312] start...
+03-06 14:28:04[E] SecnvmPowerOff isn't supported.
+03-06 14:28:04[I] cmd [3312] end...[-16777217]
+03-06 14:28:04[I] communicate end -16777217 / length : 0
+03-06 14:31:56[I] communicate start cmd:0x3312, length:64
+03-06 14:31:56[D] this request is from system_server
+03-06 14:31:56[I] cmd [3312] start...
+03-06 14:31:56[E] SecnvmPowerOff isn't supported.
+03-06 14:31:56[I] cmd [3312] end...[-16777217]
+03-06 14:31:56[I] communicate end -16777217 / length : 0
+03-06 15:01:11[I] communicate start cmd:0x3312, length:64
+03-06 15:01:11[D] this request is from system_server
+03-06 15:01:11[I] cmd [3312] start...
+03-06 15:01:11[E] SecnvmPowerOff isn't supported.
+03-06 15:01:11[I] cmd [3312] end...[-16777217]
+03-06 15:01:11[I] communicate end -16777217 / length : 0
+03-06 15:01:17[I] communicate start cmd:0x3312, length:64
+03-06 15:01:17[D] this request is from system_server
+03-06 15:01:17[I] cmd [3312] start...
+03-06 15:01:17[E] SecnvmPowerOff isn't supported.
+03-06 15:01:17[I] cmd [3312] end...[-16777217]
+03-06 15:01:17[I] communicate end -16777217 / length : 0
+03-06 15:08:35[I] communicate start cmd:0x3312, length:64
+03-06 15:08:35[D] this request is from system_server
+03-06 15:08:35[I] cmd [3312] start...
+03-06 15:08:35[E] SecnvmPowerOff isn't supported.
+03-06 15:08:35[I] cmd [3312] end...[-16777217]
+03-06 15:08:35[I] communicate end -16777217 / length : 0
+03-06 15:24:23[I] communicate start cmd:0x3312, length:64
+03-06 15:24:23[D] this request is from system_server
+03-06 15:24:23[I] cmd [3312] start...
+03-06 15:24:23[E] SecnvmPowerOff isn't supported.
+03-06 15:24:23[I] cmd [3312] end...[-16777217]
+03-06 15:24:23[I] communicate end -16777217 / length : 0
+03-06 15:43:56[I] communicate start cmd:0x3312, length:64
+03-06 15:43:56[D] this request is from system_server
+03-06 15:43:56[I] cmd [3312] start...
+03-06 15:43:56[E] SecnvmPowerOff isn't supported.
+03-06 15:43:56[I] cmd [3312] end...[-16777217]
+03-06 15:43:56[I] communicate end -16777217 / length : 0
+03-06 15:50:04[I] communicate start cmd:0x3312, length:64
+03-06 15:50:04[D] this request is from system_server
+03-06 15:50:04[I] cmd [3312] start...
+03-06 15:50:04[E] SecnvmPowerOff isn't supported.
+03-06 15:50:04[I] cmd [3312] end...[-16777217]
+03-06 15:50:04[I] communicate end -16777217 / length : 0
+03-06 15:56:49[I] communicate start cmd:0x3312, length:64
+03-06 15:56:49[D] this request is from system_server
+03-06 15:56:49[I] cmd [3312] start...
+03-06 15:56:49[E] SecnvmPowerOff isn't supported.
+03-06 15:56:49[I] cmd [3312] end...[-16777217]
+03-06 15:56:49[I] communicate end -16777217 / length : 0
+03-06 15:56:51[I] communicate start cmd:0x3312, length:64
+03-06 15:56:51[D] this request is from system_server
+03-06 15:56:51[I] cmd [3312] start...
+03-06 15:56:51[E] SecnvmPowerOff isn't supported.
+03-06 15:56:51[I] cmd [3312] end...[-16777217]
+03-06 15:56:51[I] communicate end -16777217 / length : 0
+03-06 15:58:39[I] communicate start cmd:0x3312, length:64
+03-06 15:58:39[D] this request is from system_server
+03-06 15:58:39[I] cmd [3312] start...
+03-06 15:58:39[E] SecnvmPowerOff isn't supported.
+03-06 15:58:39[I] cmd [3312] end...[-16777217]
+03-06 15:58:39[I] communicate end -16777217 / length : 0
+03-06 18:56:28[I] communicate start cmd:0x3312, length:64
+03-06 18:56:28[D] this request is from system_server
+03-06 18:56:28[I] cmd [3312] start...
+03-06 18:56:28[E] SecnvmPowerOff isn't supported.
+03-06 18:56:28[I] cmd [3312] end...[-16777217]
+03-06 18:56:28[I] communicate end -16777217 / length : 0
+03-06 18:57:54[I] communicate start cmd:0x3312, length:64
+03-06 18:57:54[D] this request is from system_server
+03-06 18:57:54[I] cmd [3312] start...
+03-06 18:57:54[E] SecnvmPowerOff isn't supported.
+03-06 18:57:54[I] cmd [3312] end...[-16777217]
+03-06 18:57:54[I] communicate end -16777217 / length : 0
+03-06 18:59:47[I] communicate start cmd:0x3312, length:64
+03-06 18:59:47[D] this request is from system_server
+03-06 18:59:47[I] cmd [3312] start...
+03-06 18:59:47[E] SecnvmPowerOff isn't supported.
+03-06 18:59:47[I] cmd [3312] end...[-16777217]
+03-06 18:59:47[I] communicate end -16777217 / length : 0
+03-06 19:08:53[I] communicate start cmd:0x3312, length:64
+03-06 19:08:53[D] this request is from system_server
+03-06 19:08:53[I] cmd [3312] start...
+03-06 19:08:53[E] SecnvmPowerOff isn't supported.
+03-06 19:08:53[I] cmd [3312] end...[-16777217]
+03-06 19:08:53[I] communicate end -16777217 / length : 0
+03-06 19:12:44[I] communicate start cmd:0x3105, length:140
+03-06 19:12:44[D] this request is from /system/bin/keystore
+03-06 19:12:44[I] cmd [3105] start...
+03-06 19:12:44[I] cmd [3105] end...[0]
+03-06 19:12:44[I] communicate end 0 / length : 0
+03-06 19:13:38[I] communicate start cmd:0x3105, length:151
+03-06 19:13:38[D] this request is from /system/bin/keystore
+03-06 19:13:38[I] cmd [3105] start...
+03-06 19:13:38[I] cmd [3105] end...[0]
+03-06 19:13:38[I] communicate end 0 / length : 0
+03-06 20:56:48[I] communicate start cmd:0x3312, length:64
+03-06 20:56:48[D] this request is from system_server
+03-06 20:56:48[I] cmd [3312] start...
+03-06 20:56:48[E] SecnvmPowerOff isn't supported.
+03-06 20:56:48[I] cmd [3312] end...[-16777217]
+03-06 20:56:48[I] communicate end -16777217 / length : 0
+03-06 21:03:19[I] communicate start cmd:0x3312, length:64
+03-06 21:03:19[D] this request is from system_server
+03-06 21:03:19[I] cmd [3312] start...
+03-06 21:03:19[E] SecnvmPowerOff isn't supported.
+03-06 21:03:19[I] cmd [3312] end...[-16777217]
+03-06 21:03:19[I] communicate end -16777217 / length : 0
+03-06 21:03:25[I] communicate start cmd:0x3312, length:64
+03-06 21:03:25[D] this request is from system_server
+03-06 21:03:25[I] cmd [3312] start...
+03-06 21:03:25[E] SecnvmPowerOff isn't supported.
+03-06 21:03:25[I] cmd [3312] end...[-16777217]
+03-06 21:03:25[I] communicate end -16777217 / length : 0
+03-06 21:05:03[I] communicate start cmd:0x3312, length:64
+03-06 21:05:03[D] this request is from system_server
+03-06 21:05:03[I] cmd [3312] start...
+03-06 21:05:03[E] SecnvmPowerOff isn't supported.
+03-06 21:05:03[I] cmd [3312] end...[-16777217]
+03-06 21:05:03[I] communicate end -16777217 / length : 0
+03-06 21:11:15[I] communicate start cmd:0x3312, length:64
+03-06 21:11:15[D] this request is from system_server
+03-06 21:11:15[I] cmd [3312] start...
+03-06 21:11:15[E] SecnvmPowerOff isn't supported.
+03-06 21:11:15[I] cmd [3312] end...[-16777217]
+03-06 21:11:15[I] communicate end -16777217 / length : 0
+03-06 21:21:48[I] communicate start cmd:0x3105, length:140
+03-06 21:21:48[D] this request is from /system/bin/keystore
+03-06 21:21:48[I] cmd [3105] start...
+03-06 21:21:48[I] cmd [3105] end...[0]
+03-06 21:21:48[I] communicate end 0 / length : 0
+03-06 21:21:53[I] communicate start cmd:0x2041, length:64
+03-06 21:21:53[D] this request is from system_server
+03-06 21:21:53[I] cmd [2041] start...
+03-06 21:21:53[I] DRK file exists. 2555
+03-06 21:21:53[I] cmd [2041] end...[0]
+03-06 21:21:53[I] communicate end 0 / length : 0
+03-06 21:21:53[I] communicate start cmd:0x2031, length:148
+03-06 21:21:53[D] this request is from system_server
+03-06 21:21:53[I] cmd [2031] start...
+03-06 21:21:53[I] DRK file exists. 2555
+03-06 21:21:53[E] Carrier length is not matched.
+03-06 21:21:53[I] IMEI supported model !!!
+03-06 21:21:53[I] receiveNotifyCB end
+03-06 21:21:53[E] Carrier length is not matched.
+03-06 21:21:53[I] IMEI supported model !!!
+03-06 21:21:53[I] receiveNotifyCB end
+03-06 21:21:53[I] DRK file exists. 2555
+03-06 21:21:59[I] cmd [2031] end...[0]
+03-06 21:21:59[I] communicate end 0 / length : 3943
+03-06 21:21:59[I] communicate start cmd:0x2032, length:64
+03-06 21:21:59[D] this request is from system_server
+03-06 21:21:59[I] cmd [2032] start...
+03-06 21:21:59[I] cmd [2032] end...[0]
+03-06 21:21:59[I] communicate end 0 / length : 0
+03-06 22:12:45[I] communicate start cmd:0x3312, length:64
+03-06 22:12:45[D] this request is from system_server
+03-06 22:12:45[I] cmd [3312] start...
+03-06 22:12:45[E] SecnvmPowerOff isn't supported.
+03-06 22:12:45[I] cmd [3312] end...[-16777217]
+03-06 22:12:45[I] communicate end -16777217 / length : 0
+03-06 22:23:13[I] communicate start cmd:0x3312, length:64
+03-06 22:23:13[D] this request is from system_server
+03-06 22:23:13[I] cmd [3312] start...
+03-06 22:23:13[E] SecnvmPowerOff isn't supported.
+03-06 22:23:13[I] cmd [3312] end...[-16777217]
+03-06 22:23:13[I] communicate end -16777217 / length : 0
+03-06 22:23:39[I] communicate start cmd:0x3312, length:64
+03-06 22:23:39[D] this request is from system_server
+03-06 22:23:39[I] cmd [3312] start...
+03-06 22:23:39[E] SecnvmPowerOff isn't supported.
+03-06 22:23:39[I] cmd [3312] end...[-16777217]
+03-06 22:23:39[I] communicate end -16777217 / length : 0
+03-06 22:23:46[I] communicate start cmd:0x3312, length:64
+03-06 22:23:46[D] this request is from system_server
+03-06 22:23:46[I] cmd [3312] start...
+03-06 22:23:46[E] SecnvmPowerOff isn't supported.
+03-06 22:23:46[I] cmd [3312] end...[-16777217]
+03-06 22:23:46[I] communicate end -16777217 / length : 0
+03-06 22:23:49[I] communicate start cmd:0x3312, length:64
+03-06 22:23:49[D] this request is from system_server
+03-06 22:23:49[I] cmd [3312] start...
+03-06 22:23:49[E] SecnvmPowerOff isn't supported.
+03-06 22:23:49[I] cmd [3312] end...[-16777217]
+03-06 22:23:49[I] communicate end -16777217 / length : 0
+03-06 22:23:52[I] communicate start cmd:0x3312, length:64
+03-06 22:23:52[D] this request is from system_server
+03-06 22:23:52[I] cmd [3312] start...
+03-06 22:23:52[E] SecnvmPowerOff isn't supported.
+03-06 22:23:52[I] cmd [3312] end...[-16777217]
+03-06 22:23:52[I] communicate end -16777217 / length : 0
+03-06 22:24:10[I] communicate start cmd:0x3312, length:64
+03-06 22:24:10[D] this request is from system_server
+03-06 22:24:10[I] cmd [3312] start...
+03-06 22:24:10[E] SecnvmPowerOff isn't supported.
+03-06 22:24:10[I] cmd [3312] end...[-16777217]
+03-06 22:24:10[I] communicate end -16777217 / length : 0
+03-06 22:24:22[I] communicate start cmd:0x3312, length:64
+03-06 22:24:22[D] this request is from system_server
+03-06 22:24:22[I] cmd [3312] start...
+03-06 22:24:22[E] SecnvmPowerOff isn't supported.
+03-06 22:24:22[I] cmd [3312] end...[-16777217]
+03-06 22:24:22[I] communicate end -16777217 / length : 0
+03-06 23:19:03[I] communicate start cmd:0x3105, length:140
+03-06 23:19:03[D] this request is from /system/bin/keystore
+03-06 23:19:03[I] cmd [3105] start...
+03-06 23:19:03[I] cmd [3105] end...[0]
+03-06 23:19:03[I] communicate end 0 / length : 0
+03-06 23:19:32[I] communicate start cmd:0x3105, length:140
+03-06 23:19:32[D] this request is from /system/bin/keystore
+03-06 23:19:32[I] cmd [3105] start...
+03-06 23:19:32[I] cmd [3105] end...[0]
+03-06 23:19:32[I] communicate end 0 / length : 0
+03-06 23:22:53[I] communicate start cmd:0x2041, length:64
+03-06 23:22:53[D] this request is from system_server
+03-06 23:22:53[I] cmd [2041] start...
+03-06 23:22:53[I] DRK file exists. 2555
+03-06 23:22:53[I] cmd [2041] end...[0]
+03-06 23:22:53[I] communicate end 0 / length : 0
+03-06 23:22:53[I] communicate start cmd:0x2031, length:148
+03-06 23:22:53[D] this request is from system_server
+03-06 23:22:53[I] cmd [2031] start...
+03-06 23:22:53[I] DRK file exists. 2555
+03-06 23:22:53[E] Carrier length is not matched.
+03-06 23:22:53[I] IMEI supported model !!!
+03-06 23:22:53[I] receiveNotifyCB end
+03-06 23:22:53[E] Carrier length is not matched.
+03-06 23:22:53[I] IMEI supported model !!!
+03-06 23:22:53[I] receiveNotifyCB end
+03-06 23:22:53[I] DRK file exists. 2555
+03-06 23:22:55[I] cmd [2031] end...[0]
+03-06 23:22:55[I] communicate end 0 / length : 3944
+03-06 23:22:55[I] communicate start cmd:0x2032, length:64
+03-06 23:22:55[D] this request is from system_server
+03-06 23:22:55[I] cmd [2032] start...
+03-06 23:22:55[I] cmd [2032] end...[0]
+03-06 23:22:55[I] communicate end 0 / length : 0
+03-06 23:22:57[I] communicate start cmd:0x3105, length:151
+03-06 23:22:57[D] this request is from /system/bin/keystore
+03-06 23:22:57[I] cmd [3105] start...
+03-06 23:22:57[I] cmd [3105] end...[0]
+03-06 23:22:57[I] communicate end 0 / length : 0
+03-06 23:40:21[I] communicate start cmd:0x3312, length:64
+03-06 23:40:21[D] this request is from system_server
+03-06 23:40:21[I] cmd [3312] start...
+03-06 23:40:21[E] SecnvmPowerOff isn't supported.
+03-06 23:40:21[I] cmd [3312] end...[-16777217]
+03-06 23:40:21[I] communicate end -16777217 / length : 0
+03-06 23:51:28[I] communicate start cmd:0x3312, length:64
+03-06 23:51:28[D] this request is from system_server
+03-06 23:51:28[I] cmd [3312] start...
+03-06 23:51:28[E] SecnvmPowerOff isn't supported.
+03-06 23:51:28[I] cmd [3312] end...[-16777217]
+03-06 23:51:28[I] communicate end -16777217 / length : 0
+03-06 23:54:08[I] communicate start cmd:0x3312, length:64
+03-06 23:54:08[D] this request is from system_server
+03-06 23:54:08[I] cmd [3312] start...
+03-06 23:54:08[E] SecnvmPowerOff isn't supported.
+03-06 23:54:08[I] cmd [3312] end...[-16777217]
+03-06 23:54:08[I] communicate end -16777217 / length : 0
+03-07 00:06:51[I] communicate start cmd:0x3312, length:64
+03-07 00:06:51[D] this request is from system_server
+03-07 00:06:51[I] cmd [3312] start...
+03-07 00:06:51[E] SecnvmPowerOff isn't supported.
+03-07 00:06:51[I] cmd [3312] end...[-16777217]
+03-07 00:06:51[I] communicate end -16777217 / length : 0
+03-07 00:14:41[I] communicate start cmd:0x3312, length:64
+03-07 00:14:41[D] this request is from system_server
+03-07 00:14:41[I] cmd [3312] start...
+03-07 00:14:41[E] SecnvmPowerOff isn't supported.
+03-07 00:14:41[I] cmd [3312] end...[-16777217]
+03-07 00:14:41[I] communicate end -16777217 / length : 0
+03-07 00:14:48[I] communicate start cmd:0x3312, length:64
+03-07 00:14:48[D] this request is from system_server
+03-07 00:14:48[I] cmd [3312] start...
+03-07 00:14:48[E] SecnvmPowerOff isn't supported.
+03-07 00:14:48[I] cmd [3312] end...[-16777217]
+03-07 00:14:48[I] communicate end -16777217 / length : 0
+03-07 00:28:37[I] communicate start cmd:0x3312, length:64
+03-07 00:28:37[D] this request is from system_server
+03-07 00:28:37[I] cmd [3312] start...
+03-07 00:28:37[E] SecnvmPowerOff isn't supported.
+03-07 00:28:37[I] cmd [3312] end...[-16777217]
+03-07 00:28:37[I] communicate end -16777217 / length : 0
+03-07 00:32:16[I] communicate start cmd:0x3312, length:64
+03-07 00:32:16[D] this request is from system_server
+03-07 00:32:16[I] cmd [3312] start...
+03-07 00:32:16[E] SecnvmPowerOff isn't supported.
+03-07 00:32:16[I] cmd [3312] end...[-16777217]
+03-07 00:32:16[I] communicate end -16777217 / length : 0
+03-07 00:53:19[I] communicate start cmd:0x3312, length:64
+03-07 00:53:19[D] this request is from system_server
+03-07 00:53:19[I] cmd [3312] start...
+03-07 00:53:19[E] SecnvmPowerOff isn't supported.
+03-07 00:53:19[I] cmd [3312] end...[-16777217]
+03-07 00:53:19[I] communicate end -16777217 / length : 0
+03-07 00:55:37[I] communicate start cmd:0x3312, length:64
+03-07 00:55:37[D] this request is from system_server
+03-07 00:55:37[I] cmd [3312] start...
+03-07 00:55:37[E] SecnvmPowerOff isn't supported.
+03-07 00:55:37[I] cmd [3312] end...[-16777217]
+03-07 00:55:37[I] communicate end -16777217 / length : 0
+03-07 01:02:52[I] communicate start cmd:0x3312, length:64
+03-07 01:02:52[D] this request is from system_server
+03-07 01:02:52[I] cmd [3312] start...
+03-07 01:02:52[E] SecnvmPowerOff isn't supported.
+03-07 01:02:52[I] cmd [3312] end...[-16777217]
+03-07 01:02:52[I] communicate end -16777217 / length : 0
+03-07 01:03:36[I] communicate start cmd:0x3312, length:64
+03-07 01:03:36[D] this request is from system_server
+03-07 01:03:36[I] cmd [3312] start...
+03-07 01:03:36[E] SecnvmPowerOff isn't supported.
+03-07 01:03:36[I] cmd [3312] end...[-16777217]
+03-07 01:03:36[I] communicate end -16777217 / length : 0
+03-07 01:18:51[I] communicate start cmd:0x2041, length:64
+03-07 01:18:51[D] this request is from system_server
+03-07 01:18:51[I] cmd [2041] start...
+03-07 01:18:51[I] DRK file exists. 2555
+03-07 01:18:51[I] cmd [2041] end...[0]
+03-07 01:18:51[I] communicate end 0 / length : 0
+03-07 01:54:27[I] communicate start cmd:0x3312, length:64
+03-07 01:54:27[D] this request is from system_server
+03-07 01:54:27[I] cmd [3312] start...
+03-07 01:54:27[E] SecnvmPowerOff isn't supported.
+03-07 01:54:27[I] cmd [3312] end...[-16777217]
+03-07 01:54:27[I] communicate end -16777217 / length : 0
+03-07 01:58:35[I] communicate start cmd:0x3312, length:64
+03-07 01:58:35[D] this request is from system_server
+03-07 01:58:35[I] cmd [3312] start...
+03-07 01:58:35[E] SecnvmPowerOff isn't supported.
+03-07 01:58:35[I] cmd [3312] end...[-16777217]
+03-07 01:58:35[I] communicate end -16777217 / length : 0
+03-07 02:22:46[I] communicate start cmd:0x3312, length:64
+03-07 02:22:46[D] this request is from system_server
+03-07 02:22:46[I] cmd [3312] start...
+03-07 02:22:46[E] SecnvmPowerOff isn't supported.
+03-07 02:22:46[I] cmd [3312] end...[-16777217]
+03-07 02:22:46[I] communicate end -16777217 / length : 0
+03-07 02:23:54[I] communicate start cmd:0x3312, length:64
+03-07 02:23:54[D] this request is from system_server
+03-07 02:23:54[I] cmd [3312] start...
+03-07 02:23:54[E] SecnvmPowerOff isn't supported.
+03-07 02:23:54[I] cmd [3312] end...[-16777217]
+03-07 03:12:06[I] communicate start cmd:0x3301, length:64
+03-07 03:12:06[D] this request is from system_server
+03-07 03:12:06[I] cmd [3301] start...
+03-07 03:12:06[E] GetBigdataMsg isn't supported.
+03-07 03:12:06[I] cmd [3301] end...[-16777217]
+03-07 03:12:06[I] communicate end -16777217 / length : 0
+03-07 03:12:06[I] communicate start cmd:0x3101, length:103
+03-07 03:12:06[D] this request is from system_server
+03-07 03:12:06[I] cmd [3101] start...
+03-07 03:12:06[I] cmd [3101] end...[0]
+03-07 03:12:06[I] communicate end 0 / length : 152855
+03-07 03:12:06[I] communicate start cmd:0x3101, length:108
+03-07 03:12:06[D] this request is from system_server
+03-07 03:12:06[I] cmd [3101] start...
+03-07 03:12:06[I] cmd [3101] end...[0]
+03-07 03:12:06[I] communicate end 0 / length : 307424
+03-07 03:12:06[I] communicate start cmd:0x3101, length:105
+03-07 03:12:06[D] this request is from system_server
+03-07 03:12:06[I] cmd [3101] start...
+03-07 03:12:06[E] Failed to stat (No such file or directory)
+03-07 03:12:06[E] read file error
+03-07 03:12:06[I] cmd [3101] end...[-15402]
+03-07 03:12:06[I] communicate end -15402 / length : 0
+03-07 03:12:06[I] communicate start cmd:0x3101, length:110
+03-07 03:12:06[D] this request is from system_server
+03-07 03:12:06[I] cmd [3101] start...
+03-07 03:12:06[E] Failed to stat (No such file or directory)
+03-07 03:12:06[E] read file error
+03-07 03:12:06[I] cmd [3101] end...[-15402]
+03-07 03:12:06[I] communicate end -15402 / length : 0
+03-07 03:31:25[I] communicate start cmd:0x3312, length:64
+03-07 03:31:25[D] this request is from system_server
+03-07 03:31:25[I] cmd [3312] start...
+03-07 03:31:25[E] SecnvmPowerOff isn't supported.
+03-07 03:31:25[I] cmd [3312] end...[-16777217]
+03-07 03:31:25[I] communicate end -16777217 / length : 0
+03-07 03:33:54[I] communicate start cmd:0x3312, length:64
+03-07 03:33:54[D] this request is from system_server
+03-07 03:33:54[I] cmd [3312] start...
+03-07 03:33:54[E] SecnvmPowerOff isn't supported.
+03-07 03:33:54[I] cmd [3312] end...[-16777217]
+03-07 03:33:54[I] communicate end -16777217 / length : 0
+03-07 03:39:37[I] communicate start cmd:0x3312, length:64
+03-07 03:39:37[D] this request is from system_server
+03-07 03:39:37[I] cmd [3312] start...
+03-07 03:39:37[E] SecnvmPowerOff isn't supported.
+03-07 03:39:37[I] cmd [3312] end...[-16777217]
+03-07 03:39:37[I] communicate end -16777217 / length : 0
+03-07 03:40:53[I] communicate start cmd:0x3312, length:64
+03-07 03:40:53[D] this request is from system_server
+03-07 03:40:53[I] cmd [3312] start...
+03-07 03:40:53[E] SecnvmPowerOff isn't supported.
+03-07 03:40:53[I] cmd [3312] end...[-16777217]
+03-07 03:40:53[I] communicate end -16777217 / length : 0
+03-07 03:44:00[I] communicate start cmd:0x3312, length:64
+03-07 03:44:00[D] this request is from system_server
+03-07 03:44:00[I] cmd [3312] start...
+03-07 03:44:00[E] SecnvmPowerOff isn't supported.
+03-07 03:44:00[I] cmd [3312] end...[-16777217]
+03-07 03:44:00[I] communicate end -16777217 / length : 0
+03-07 03:46:31[I] communicate start cmd:0x3312, length:64
+03-07 03:46:31[D] this request is from system_server
+03-07 03:46:31[I] cmd [3312] start...
+03-07 03:46:31[E] SecnvmPowerOff isn't supported.
+03-07 03:46:31[I] cmd [3312] end...[-16777217]
+03-07 03:46:31[I] communicate end -16777217 / length : 0
+03-07 03:52:17[I] communicate start cmd:0x3312, length:64
+03-07 03:52:17[D] this request is from system_server
+03-07 03:52:17[I] cmd [3312] start...
+03-07 03:52:17[E] SecnvmPowerOff isn't supported.
+03-07 03:52:17[I] cmd [3312] end...[-16777217]
+03-07 03:52:17[I] communicate end -16777217 / length : 0
+03-07 03:54:15[I] communicate start cmd:0x3312, length:64
+03-07 03:54:15[D] this request is from system_server
+03-07 03:54:15[I] cmd [3312] start...
+03-07 03:54:15[E] SecnvmPowerOff isn't supported.
+03-07 03:54:15[I] cmd [3312] end...[-16777217]
+03-07 03:54:15[I] communicate end -16777217 / length : 0
+03-07 03:55:36[I] communicate start cmd:0x3312, length:64
+03-07 03:55:36[D] this request is from system_server
+03-07 03:55:36[I] cmd [3312] start...
+03-07 03:55:36[E] SecnvmPowerOff isn't supported.
+03-07 03:55:36[I] cmd [3312] end...[-16777217]
+03-07 03:55:36[I] communicate end -16777217 / length : 0
+03-07 03:59:06[I] communicate start cmd:0x3312, length:64
+03-07 03:59:06[D] this request is from system_server
+03-07 03:59:06[I] cmd [3312] start...
+03-07 03:59:06[E] SecnvmPowerOff isn't supported.
+03-07 03:59:06[I] cmd [3312] end...[-16777217]
+03-07 03:59:06[I] communicate end -16777217 / length : 0
+03-07 04:14:48[I] communicate start cmd:0x3312, length:64
+03-07 04:14:48[D] this request is from system_server
+03-07 04:14:48[I] cmd [3312] start...
+03-07 04:14:48[E] SecnvmPowerOff isn't supported.
+03-07 04:14:48[I] cmd [3312] end...[-16777217]
+03-07 04:14:48[I] communicate end -16777217 / length : 0
+03-07 04:14:55[I] communicate start cmd:0x3312, length:64
+03-07 04:14:55[D] this request is from system_server
+03-07 04:14:55[I] cmd [3312] start...
+03-07 04:14:55[E] SecnvmPowerOff isn't supported.
+03-07 04:14:55[I] cmd [3312] end...[-16777217]
+03-07 04:14:55[I] communicate end -16777217 / length : 0
+03-07 04:18:53[I] communicate start cmd:0x3105, length:140
+03-07 04:18:53[D] this request is from /system/bin/keystore
+03-07 04:18:53[I] cmd [3105] start...
+03-07 04:18:53[I] cmd [3105] end...[0]
+03-07 04:18:53[I] communicate end 0 / length : 0
+03-07 04:36:28[I] communicate start cmd:0x3312, length:64
+03-07 04:36:28[D] this request is from system_server
+03-07 04:36:28[I] cmd [3312] start...
+03-07 04:36:28[E] SecnvmPowerOff isn't supported.
+03-07 04:36:28[I] cmd [3312] end...[-16777217]
+03-07 04:36:28[I] communicate end -16777217 / length : 0
+03-07 04:55:03[I] communicate start cmd:0x3312, length:64
+03-07 04:55:03[D] this request is from system_server
+03-07 04:55:03[I] cmd [3312] start...
+03-07 04:55:03[E] SecnvmPowerOff isn't supported.
+03-07 04:55:03[I] cmd [3312] end...[-16777217]
+03-07 04:55:03[I] communicate end -16777217 / length : 0
+03-07 05:18:26[I] communicate start cmd:0x3312, length:64
+03-07 05:18:26[D] this request is from system_server
+03-07 05:18:26[I] cmd [3312] start...
+03-07 05:18:26[E] SecnvmPowerOff isn't supported.
+03-07 05:18:26[I] cmd [3312] end...[-16777217]
+03-07 05:18:26[I] communicate end -16777217 / length : 0
+03-07 07:10:41[I] communicate start cmd:0x3105, length:151
+03-07 07:10:41[D] this request is from /system/bin/keystore
+03-07 07:10:41[I] cmd [3105] start...
+03-07 07:10:41[I] cmd [3105] end...[0]
+======= DEVROOT VENDOR #LOG END =======
